@@ -1,3 +1,3 @@
-## Blog my sweet blog!
+## Site my sweet site!
 
-[guicruzzs.github.io](http://guicruzzs.github.io)# qasampameeting.github.io
+[qasampameeting.com.br](http://qasampameeting.com.br)
