@@ -9,11 +9,11 @@ title: Palestrantes QA Sampa Meeting
     {% for speaker in site.speakers %}
       <div class="speaker">
         <div class="photo">
-          <a href="{{ speaker.link }}"><img src="/assets/img/speakers/{{ speaker.image }}"></a>
+          <a href="{{ speaker.link }}" target="_blank"><img src="/assets/img/speakers/{{ speaker.image }}"></a>
         </div>
         <div class="text">
           <h5>
-            <a href="{{ speaker.link }}">{{ speaker.name }}</a>
+            <a href="{{ speaker.link }}" target="_blank">{{ speaker.name }}</a>
           </h5>
           <div class="description">
             {{ speaker.description }}
