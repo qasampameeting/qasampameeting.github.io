@@ -542,7 +542,7 @@ img,video,audio,iframe,object {
     flex-wrap: wrap;
     width: 275px;
     padding: 0 10px;
-    margin-bottom: 23px;
+    margin-bottom: 20px;
 }
 
 .sponsors .logos a img {
@@ -637,6 +637,21 @@ img,video,audio,iframe,object {
 .speakers .speakersContent .speaker .text h5 a {
     color: #FFF;
     font-size: 20px;
+}
+
+.team .card {
+    text-align: center;
+}
+
+.team .card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.team .teamContent {
+    display: flex;
+    justify-content: space-around;
 }
 
 .container {

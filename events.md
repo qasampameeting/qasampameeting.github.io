@@ -15,7 +15,7 @@ title: Eventos QA Sampa Meeting
         "{{ event[1].title }}"
       </div>
       <div class="eventLink">
-        <a href="{{ event[1].link }}">{% if event[1].link %}inscreva-se aqui{% else %}inscrições em breve{% endif %}</a>
+        <a href="{{ event[1].link }}" {% if event[1].link %}target="_blank"{% endif %}>{% if event[1].link %}inscreva-se aqui{% else %}inscrições em breve{% endif %}</a>
       </div>
     {% endfor %}
   </div>
