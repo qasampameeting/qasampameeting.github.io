@@ -1,0 +1,16 @@
+ <div class="header">
+    <div class="menu">
+        <nav class="nav-collapse">
+            <ul class="noList">
+                {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
+                <li class="element {{ current }}">
+                    <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </div>
+    <div class=logo>
+        <a href="{{ site.baseurl }}/"><img src="/assets/img/logo.png"></a>
+    </div>
+ </div><!-- end .header -->

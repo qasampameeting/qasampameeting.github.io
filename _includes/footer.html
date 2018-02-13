@@ -1,0 +1,17 @@
+<div class="footer">
+   <div class="container">
+      <div class="footer-links">
+         <ul class="noList">
+            {% for social_media in site.social %}
+               <li>
+                  <a href="{{ social_media[1] }}" target='_blank'>
+                     <img src="/assets/img/social/{{ social_media[0] }}.png">
+                  </a>
+               </li>
+            {% endfor %}
+         </ul>
+      </div>
+      <p class="copy"> &copy; {{ site.time | date: '%Y' }} QA Sampa Meeting. Powered by <a href="http://jekyllrb.com">Jekyll</a></p>
+   </div>
+</div><!-- end .footer -->
+
