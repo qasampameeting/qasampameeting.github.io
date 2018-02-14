@@ -5,7 +5,7 @@ title: Palestrantes QA Sampa Meeting
 
 <div class="speakers">
   <h1 class="pageTitle">palestrantes</h1>
-  <div class="speakersContent">
+  <div class="speakers-content">
     {% for speaker in site.speakers %}
       <div class="speaker">
         <div class="photo">

@@ -5,7 +5,7 @@ title: Eventos QA Sampa Meeting
 
 <div class="events">
   <h1 class="pageTitle">eventos</h1>
-  <div class="eventsContent">
+  <div class="events-content">
     {% for event in site.events %}
       <div class="title">
         <div>{{ event[0] }}</div>

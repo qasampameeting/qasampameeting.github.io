@@ -392,10 +392,6 @@ img,video,audio,iframe,object {
     margin-bottom: 32px;
 }
 
-.home .next-event {
-    height: 300px;
-}
-
 .home .next-event .call {
     font-size: 15px;
     padding-top: 30px;
@@ -411,6 +407,7 @@ img,video,audio,iframe,object {
 .home .next-event .date {
     font-size: 25px;
     font-weight: bold;
+    margin-bottom: 30px;
 }
 
 .home .next-event .date a {
@@ -514,7 +511,9 @@ img,video,audio,iframe,object {
 
 .header .logo {
     margin: 0 auto;
-    width: 680px;
+}
+.header .logo img {
+    max-height: 200px;
 }
 
 .sponsors {
@@ -551,12 +550,18 @@ img,video,audio,iframe,object {
     margin: 0 7px;
 }
 
+.about p {
+    text-align: justify;
+}
+
 .about-text {
-    padding-right: 35px;
+    max-width: 500px;
 }
 
 .about-wrapper {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .events .title {
@@ -576,7 +581,7 @@ img,video,audio,iframe,object {
     border-top: solid 10px #5da092;
     width: 0;
     position: relative;
-    top: 40px;
+    top: 38px;
     left: 100px;
 }
 
@@ -603,44 +608,49 @@ img,video,audio,iframe,object {
     background-color: #5da092;
 }
 
-.speakers .speakersContent {
+.speakers .speakers-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
-.speakers .speakersContent .speaker {
+.speakers .speakers-content .speaker {
     width: 260px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
-.speakers .speakersContent .speaker .photo {
+.speakers .speakers-content .speaker .photo {
     height: 160px;
 }
 
-.speakers .speakersContent .speaker .photo img {
+.speakers .speakers-content .speaker .photo img {
     width: 260px;
     height: 160px;
     object-fit: cover;
 }
 
-.speakers .speakersContent .speaker .text {
+.speakers .speakers-content .speaker .text {
     background-color: #5da092;
     padding: 10px;
     font-size: 16px;
 }
 
-.speakers .speakersContent .speaker .text h5 {
+.speakers .speakers-content .speaker .text .description{
     text-align: center;
 }
 
-.speakers .speakersContent .speaker .text h5 a {
+.speakers .speakers-content .speaker .text h5 {
+    text-align: center;
+}
+
+.speakers .speakers-content .speaker .text h5 a {
     color: #FFF;
     font-size: 20px;
 }
 
 .team .card {
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .team .card img {
@@ -649,16 +659,18 @@ img,video,audio,iframe,object {
     object-fit: cover;
 }
 
-.team .teamContent {
+.team .team-content {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .container {
     max-width: 610px;
     margin-left: auto;
     margin-right: auto;
-    padding: 0 20px
+    padding: 20px;
+    padding-top: 0;
 }
 
 .container:after {
@@ -780,7 +792,9 @@ dd {
 }
 
 .content {
-    padding-top: 1em
+    background-color: #272727;
+    color: #FFF;
+    padding-top: 10px;
 }
 
 .post .postTitle {
@@ -1032,24 +1046,21 @@ dd {
 }
 
 @media only screen and (min-width: 800px) {
-    .content {
-        background-color: #272727;
-        color: #FFF;
-        padding-top: 10px;
-    }
-
     .container {
         max-width: 800px;
         margin-left: auto;
         margin-right: auto;
-        padding: 0
+        padding: 0;
+        padding-bottom: 20px;
     }
 
-    /*.container:after {
-        content: " ";
-        display: block;
-        clear: both
-    }*/
+    .about-wrapper {
+        justify-content: space-between;
+    }
+
+    .speakers .speakers-content {
+        justify-content: space-between;
+    }
 
     #home .posts,#home .pageTitle,#home .pagination {
         width: 74.46809%;
@@ -1149,7 +1160,7 @@ dd {
         clear: both
     }
 
-    .contactContent {
+    .contact-content {
         width: 48.93617%;
         float: left;
         margin-right: 2.12766%

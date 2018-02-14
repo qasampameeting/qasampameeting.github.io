@@ -5,7 +5,7 @@ title: Cotato QA Sampa Meeting
 
 <div id="contact">
   <h1 class="pageTitle">contato</h1>
-  <div class="contactContent">
+  <div class="contact-content">
     <p>A organização do <strong>QA Sampa Meeting</strong> atua de forma remota, ou seja, não possuimos um endereço comercial.
       <br/><br/>
       Você pode falar conosco através do e-mail <a href="mailto:qasampameeting@gmail.com">qasampameeting@gmail.com</a> ou preencher o formulário ao lado.

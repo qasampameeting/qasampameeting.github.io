@@ -5,7 +5,7 @@ title: Equipe QA Sampa Meeting
 
 <div class="team">
     <h1 class="pageTitle">equipe</h1>
-    <div class="teamContent">
+    <div class="team-content">
         <div class="card">
             <a href="https://about.me/carla_crude" target="_blank">
                 <img src="/assets/img/team/carla-crude.jpg">
