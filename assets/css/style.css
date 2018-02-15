@@ -529,6 +529,8 @@ img,video,audio,iframe,object {
     border-right: 15px solid transparent;
     border-top: solid 15px #FFF;
     width: 0;
+    position: relative;
+    top: 21px;
 }
 
 .sponsors h5 {
@@ -541,7 +543,6 @@ img,video,audio,iframe,object {
     flex-wrap: wrap;
     width: 275px;
     padding: 0 10px;
-    margin-bottom: 20px;
 }
 
 .sponsors .logos a img {
@@ -589,13 +590,13 @@ img,video,audio,iframe,object {
     margin: 10px 0;
 }
 
-.events .eventLink {
+.events .event-link {
     margin-bottom: 28px;
     border-bottom: dotted 2px;
     padding-bottom: 28px;
 }
 
-.events .eventLink a {
+.events .event-link a {
     text-decoration: none;
     background-color: #5da09266;
     color: #FFF;
@@ -604,7 +605,7 @@ img,video,audio,iframe,object {
     border-radius: 5px;
 }
 
-.events .eventLink a:hover {
+.events .event-link a:hover {
     background-color: #5da092;
 }
 
@@ -612,10 +613,12 @@ img,video,audio,iframe,object {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    border-bottom: dotted 2px;
 }
 
 .speakers .speakers-content .speaker {
     width: 260px;
+    margin: 0;
     margin-bottom: 30px;
 }
 
@@ -635,8 +638,9 @@ img,video,audio,iframe,object {
     font-size: 16px;
 }
 
-.speakers .speakers-content .speaker .text .description{
+.speakers .speakers-content .speaker .text .description {
     text-align: center;
+    height: auto;
 }
 
 .speakers .speakers-content .speaker .text h5 {
@@ -646,6 +650,28 @@ img,video,audio,iframe,object {
 .speakers .speakers-content .speaker .text h5 a {
     color: #FFF;
     font-size: 20px;
+}
+
+.speakers .call-for-papers {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.speakers .call-for-papers p {
+    margin-bottom: 10px;
+}
+
+.speakers .call-for-papers a {
+    text-decoration: none;
+    background-color: #5da09266;
+    color: #FFF;
+    padding: 5px 20px;
+    box-shadow: 1px 1px 2px #333;
+    border-radius: 5px;
+}
+
+.speakers .call-for-papers a:hover {
+    background-color: #5da092;
 }
 
 .team .card {
@@ -1058,8 +1084,18 @@ dd {
         justify-content: space-between;
     }
 
+    .speakers .speakers-content .speaker .text .description {
+        height: 280px;
+    }
+
     .speakers .speakers-content {
-        justify-content: space-between;
+        justify-content: flex-start;
+    }
+
+    .speakers .speakers-content .speaker {
+        width: 32%;
+        margin: 0 0.6%;
+        margin-bottom: 30px;
     }
 
     #home .posts,#home .pageTitle,#home .pagination {

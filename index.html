@@ -30,7 +30,7 @@ title: QA Sampa Meeting
       <div class="description">
         <div class="text">Estas serão nossas inspirações para os próximos eventos</div>
         <div class="cards">
-          {% for speaker in site.speakers %}
+          {% for speaker in site.speakers limit: 3 %}
             <div class="speaker">
               <div class="photo">
                 <a href="/speakers"><img src="/assets/img/speakers/{{ speaker.image }}"></a>
