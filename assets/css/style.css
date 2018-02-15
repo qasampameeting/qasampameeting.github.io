@@ -512,8 +512,13 @@ img,video,audio,iframe,object {
 .header .logo {
     margin: 0 auto;
 }
+
 .header .logo img {
     max-height: 200px;
+}
+
+.header .container {
+    padding-bottom: 0;
 }
 
 .sponsors {
