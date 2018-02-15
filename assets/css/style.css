@@ -400,8 +400,8 @@ img,video,audio,iframe,object {
 }
 
 .home .next-event .event-title {
-    font-size: 75px;
-    line-height: 85px;
+    font-size: 50px;
+    line-height: 60px;
 }
 
 .home .next-event .date {
@@ -442,7 +442,7 @@ img,video,audio,iframe,object {
 }
 
 .home-speakers .description .cards {
-    display: flex;
+    display: none;
     justify-content: space-between;
     width: 580px;
 }
@@ -518,7 +518,7 @@ img,video,audio,iframe,object {
 
 .sponsors {
     background-color: #FFF;
-    height: 230px;
+    height: 338px;
     text-align: center;
     font-size: 30px;
 }
@@ -1098,6 +1098,7 @@ dd {
         margin-bottom: 30px;
     }
 
+
     #home .posts,#home .pageTitle,#home .pagination {
         width: 74.46809%;
         float: left;
@@ -1108,6 +1109,15 @@ dd {
 
     #home .pageTitle {
         margin: 2rem auto 1em
+    }
+
+    .home-speakers .description .cards {
+        display: flex;
+    }
+
+    .home .next-event .event-title {
+        font-size: 75px;
+        line-height: 85px;
     }
 
     .js .nav-collapse {

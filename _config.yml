@@ -33,6 +33,7 @@ events:
   abril:
     date: 26-04-2018
     title: Por que testar APIs?
+    link: https://www.meetup.com/pt-BR/qasampameeting/events/247818680
 
 # SPEAKERS
 speakers:
@@ -71,5 +72,6 @@ sponsors:
   campuscode: https://campuscode.com.br
   caelum: https://www.caelum.com.br
   giovana: https://www.instagram.com/giovanasantosfotografia
+  walkandclick: https://www.facebook.com/walkandclickon
 
 google_analytics: "UA-114034864-1"
