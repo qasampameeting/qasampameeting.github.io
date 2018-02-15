@@ -31,7 +31,7 @@ events:
     title: Automação de testes em front-end
     link: https://www.meetup.com/pt-BR/qasampameeting/events/247575648
   abril:
-    date: 25-04-2018
+    date: 26-04-2018
     title: Por que testar APIs?
 
 # SPEAKERS
@@ -48,6 +48,14 @@ speakers:
     image: nathanael-araujo.jpg
     description: QA Chapter Leader na Concrete Solutions.
     link: https://www.linkedin.com/in/nathanaelaraujo
+  - name: Samuel Pereira
+    image: samuel-pereira.jpg
+    description: QA Chapter Leader na Concrete Solutions
+    link: https://www.linkedin.com/in/samuel-pereira-68327b23
+  - name: Rodrigo Matola
+    image: rodrigo-matola.jpg
+    description: Tenho experiência em garantia de qualidade de software com foco em automação, apoio à equipe, registro e relatórios de erros, além de interface com empresas e clientes. Também possuo experiência em especificação, gerenciamento e comunicação de requisitos de infra-estrutura.
+    link: https://www.linkedin.com/in/rodrigomatola/
 
 # SOCIAL MEDIA
 social:

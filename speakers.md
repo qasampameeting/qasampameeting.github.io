@@ -22,4 +22,8 @@ title: Palestrantes QA Sampa Meeting
       </div>
     {% endfor %}
   </div>
+  <div class="call-for-papers">
+    <p>Quer ser palestrante também?</p>
+    <a href="https://qasampameeting.typeform.com/to/Qxo6rT" target="_blank">Inscreva-se aqui</a>
+  </div>
 </div>
