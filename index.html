@@ -7,9 +7,12 @@ title: QA Sampa Meeting
   <div class="next-event">
     <div class="container">
       <div class="call">Próximo evento</div>
-      <div class="event-title">{{ site.events.first[1].title }}</div>
-      {% assign event_date = site.events.first[1].date | split: "-" %}
-      <div class="date"><a href="/events">{{ event_date.first }} de {{ site.events.first[0] }} de {{ event_date.last }}</a></div>
+      {% assign next_event = site.events.first[1].first %}
+      <div class="event-title">{{ next_event.title }}</div>
+        {% assign event_date = next_event.date | split: "-" %}
+      <div class="date">
+        <a href="/events">{{ event_date.first }} de {{ site.events.first[0] }} de {{ event_date.last }}</a>
+      </div>
     </div>
   </div>
 
