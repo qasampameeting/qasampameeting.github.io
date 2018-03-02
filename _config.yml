@@ -23,66 +23,76 @@ navigation:
 # EVENTS
 events:
   março:
-    date: 16-03-2018
-    title: Automação de testes em front-end
-    link: https://www.eventbrite.com.br/e/automacao-de-testes-em-front-end-inscricoes-a-partir-do-dia-05-03-as-23h-registration-43441776523
-  março:
-    date: 28-03-2018
-    title: Comece a automatizar com o Robot Framework 
-    link: https://www.eventbrite.com.br/e/comece-a-automatizar-com-o-robot-framework-inscricoes-a-partir-do-dia-21-03-as-23h-registration-43290543180
+    - date: 16-03-2018
+      title: Automação de testes em front-end
+      link: https://www.eventbrite.com.br/e/automacao-de-testes-em-front-end-inscricoes-a-partir-do-dia-05-03-as-23h-registration-43441776523
+
+    - date: 28-03-2018
+      title: Comece a automatizar com o Robot Framework
+      link: https://www.eventbrite.com.br/e/comece-a-automatizar-com-o-robot-framework-inscricoes-a-partir-do-dia-21-03-as-23h-registration-43290543180
+
   abril:
-    date: 13-04-2018
-    title: Por que utilizar BDD? 
-    link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-05-04-as-23h-registration-43291769849
-  abril:
-    date: 26-04-2018
-    title: Por que testar APIs?
-    link: https://www.eventbrite.com.br/e/por-que-testar-apis-inscricoes-a-partir-do-dia-19-04-as-23h-registration-43291305460
+    - date: 13-04-2018
+      title: Por que utilizar BDD?
+      link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-05-04-as-23h-registration-43291769849
+
+    - date: 26-04-2018
+      title: Por que testar APIs?
+      link: https://www.eventbrite.com.br/e/por-que-testar-apis-inscricoes-a-partir-do-dia-19-04-as-23h-registration-43291305460
+
   maio:
-    date: 10-05-2018
-    title: Testes de Performance 
-    link: https://www.eventbrite.com.br/e/testes-de-performance-inscricoes-a-partir-do-dia-02-05-as-23h-registration-43731000600
-  maio:
-    date: 24-05-2018
-    title: Test Driven Development - TDD 
-    link: https://www.eventbrite.com.br/e/test-driven-development-tdd-inscricoes-a-partir-do-dia-17-05-as-23h-registration-43732427869
+    - date: 10-05-2018
+      title: Testes de Performance
+      link: https://www.eventbrite.com.br/e/testes-de-performance-inscricoes-a-partir-do-dia-02-05-as-23h-registration-43731000600
+
+    - date: 24-05-2018
+      title: Test Driven Development - TDD
+      link: https://www.eventbrite.com.br/e/test-driven-development-tdd-inscricoes-a-partir-do-dia-17-05-as-23h-registration-43732427869
 
 
 
 # SPEAKERS
- speakers:
+speakers:
   - name: Karoline Leite
     image: karoline-leite.jpg
     description: Mais de 9 anos de experiência trabalhando com garantia de qualidade de software e testes. Nos últimos anos, concentrei minha carreira em testar técnicas de automação e teste de desempenho, bem como práticas e metodologias ágeis.
     link: https://www.linkedin.com/in/karolxavierleite
+
   - name: Rodrigo Matola
     image: rodrigo-matola.jpg
     description: Tenho experiência em garantia de qualidade de software com foco em automação, apoio à equipe, registro e relatórios de erros, além de interface com empresas e clientes. Também possuo experiência em especificação, gerenciamento e comunicação de requisitos de infra-estrutura.
     link: https://www.linkedin.com/in/rodrigomatola/
+
   - name: Fernando Papito
     image: fernando-papito.jpg
     description: Especialista em testes automatizados e entrega contínua. 15 anos atuando em testes e implantação de software em empresas do segmento financeiro, telecomunicações, marketing digital e programas de fidelização de clientes.
     link: https://www.linkedin.com/in/papitoio/
+
   - name: Nathanael Araújo
     image: nathanael-araujo.jpg
     description: QA Chapter Leader na Concrete Solutions.
     link: https://www.linkedin.com/in/nathanaelaraujo
+
   - name: Samuel Pereira
     image: samuel-pereira.jpg
     description: QA Chapter Leader na Concrete Solutions
     link: https://www.linkedin.com/in/samuel-pereira-68327b23
+
   - name: Júlio de Lima
     image: julio-lima.jpg
     description: Senior Consultant na Capco
     link: https://www.linkedin.com/in/juliodelimas/
+
   - name: Camila Campos
     image: camila-campos.jpg
     description: Software Engineer na Creditas | Organizadora Rails Girls São Paulo e Women Dev Summit
     link: https://www.linkedin.com/in/camilacamposramos/
+
   - name: Júlia Birkett
     image: julia-birkett.jpg
     description: Software Engineer na Creditas - Adoro a tecnologia e a programação e acho que a melhor maneira de aprender é praticar seu conhecimento!
     link: https://www.linkedin.com/in/birkettjulia/
+
   - name: Wellington Avelino
     image: wellington-avelino.jpg
     description: Profissional formado em análise e desenvolvimento de sistemas, com fortes conhecimentos em desenvolvimento mobile e web, atualmente trabalho como QA desenvolvendo especificações vivas do sistema, também sou grande entusiasta de especificação por exemplo e metodologias ágeis.
