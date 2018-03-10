@@ -33,8 +33,8 @@ events:
 
   abril:
     - date: 13-04-2018
-      title: Por que utilizar BDD?
-      link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-05-04-as-23h-registration-43291769849
+      title: Git para iniciantes
+      link: https://www.eventbrite.com.br/e/git-para-iniciantes-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44058287524
 
     - date: 26-04-2018
       title: Por que testar APIs?
@@ -49,6 +49,10 @@ events:
       title: Test Driven Development - TDD
       link: https://www.eventbrite.com.br/e/test-driven-development-tdd-inscricoes-a-partir-do-dia-17-05-as-23h-registration-43732427869
 
+  junho:
+    - date: 13-06-2018
+      title: Por que utilizar BDD?
+      link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
 
 
 # SPEAKERS
@@ -63,10 +67,10 @@ speakers:
     description: Tenho experiência em garantia de qualidade de software com foco em automação, apoio à equipe, registro e relatórios de erros, além de interface com empresas e clientes. Também possuo experiência em especificação, gerenciamento e comunicação de requisitos de infra-estrutura.
     link: https://www.linkedin.com/in/rodrigomatola/
 
-  - name: Fernando Papito
-    image: fernando-papito.jpg
-    description: Especialista em testes automatizados e entrega contínua. 15 anos atuando em testes e implantação de software em empresas do segmento financeiro, telecomunicações, marketing digital e programas de fidelização de clientes.
-    link: https://www.linkedin.com/in/papitoio/
+  - name: Debora Fernandes
+    image: debora-fernandes.jpg
+    description: Evoluir constantemente aprendendendo e absorvendo novas tecnologias, novas formas de trabalhar e novos conceitos de mercado.
+    link: https://www.linkedin.com/in/debborafernandess/
 
   - name: Nathanael Araújo
     image: nathanael-araujo.jpg
@@ -92,6 +96,11 @@ speakers:
     image: julia-birkett.jpg
     description: Software Engineer na Creditas - Adoro a tecnologia e a programação e acho que a melhor maneira de aprender é praticar seu conhecimento!
     link: https://www.linkedin.com/in/birkettjulia/
+
+  - name: Fernando Papito
+    image: fernando-papito.jpg
+    description: Especialista em testes automatizados e entrega contínua. 15 anos atuando em testes e implantação de software em empresas do segmento financeiro, telecomunicações, marketing digital e programas de fidelização de clientes.
+    link: https://www.linkedin.com/in/papitoio/
 
   - name: Wellington Avelino
     image: wellington-avelino.jpg
