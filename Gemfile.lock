@@ -27,7 +27,6 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -60,11 +59,10 @@ PLATFORMS
 DEPENDENCIES
   compass
   jekyll
-  jekyll-paginate
   normalize-scss
   sass
   support-for
   susy
 
 BUNDLED WITH
-   1.12.5
+   1.16.1

@@ -23,10 +23,6 @@ navigation:
 # EVENTS
 events:
   março:
-    - date: 16-03-2018
-      title: Automação de testes em front-end
-      link: https://www.eventbrite.com.br/e/automacao-de-testes-em-front-end-inscricoes-a-partir-do-dia-05-03-as-23h-registration-43441776523
-
     - date: 28-03-2018
       title: Comece a automatizar com o Robot Framework
       link: https://www.eventbrite.com.br/e/comece-a-automatizar-com-o-robot-framework-inscricoes-a-partir-do-dia-21-03-as-23h-registration-43290543180
@@ -57,11 +53,6 @@ events:
 
 # SPEAKERS
 speakers:
-  - name: Karoline Leite
-    image: karoline-leite.jpg
-    description: Mais de 9 anos de experiência trabalhando com garantia de qualidade de software e testes. Nos últimos anos, concentrei minha carreira em testar técnicas de automação e teste de desempenho, bem como práticas e metodologias ágeis.
-    link: https://www.linkedin.com/in/karolxavierleite
-
   - name: Rodrigo Matola
     image: rodrigo-matola.jpg
     description: Tenho experiência em garantia de qualidade de software com foco em automação, apoio à equipe, registro e relatórios de erros, além de interface com empresas e clientes. Também possuo experiência em especificação, gerenciamento e comunicação de requisitos de infra-estrutura.
@@ -101,6 +92,11 @@ speakers:
     image: fernando-papito.jpg
     description: Especialista em testes automatizados e entrega contínua. 15 anos atuando em testes e implantação de software em empresas do segmento financeiro, telecomunicações, marketing digital e programas de fidelização de clientes.
     link: https://www.linkedin.com/in/papitoio/
+
+  - name: Karoline Leite
+    image: karoline-leite.jpg
+    description: Mais de 9 anos de experiência trabalhando com garantia de qualidade de software e testes. Nos últimos anos, concentrei minha carreira em testar técnicas de automação e teste de desempenho, bem como práticas e metodologias ágeis.
+    link: https://www.linkedin.com/in/karolxavierleite
 
   - name: Wellington Avelino
     image: wellington-avelino.jpg
