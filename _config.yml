@@ -24,30 +24,34 @@ navigation:
 events:
   março:
     - date: 28-03-2018
-      title: Comece a automatizar com o Robot Framework
+      title: Workshop-Comece a automatizar com o Robot Framework
       link: https://www.eventbrite.com.br/e/comece-a-automatizar-com-o-robot-framework-inscricoes-a-partir-do-dia-21-03-as-23h-registration-43290543180
 
   abril:
+    - date: 05-04-2018
+      title: Hackers QA-encontro para codarmos junto
+      link: https://www.eventbrite.com.br/e/hackers-qa-registration-44512733785
+    
     - date: 13-04-2018
-      title: Git para iniciantes
+      title: Workshop-Git para iniciantes
       link: https://www.eventbrite.com.br/e/git-para-iniciantes-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44058287524
 
     - date: 26-04-2018
-      title: Por que testar APIs?
+      title: Workshop-Por que testar APIs?
       link: https://www.eventbrite.com.br/e/por-que-testar-apis-inscricoes-a-partir-do-dia-19-04-as-23h-registration-43291305460
 
   maio:
     - date: 10-05-2018
-      title: Testes de Performance
+      title: Workshop-Testes de Performance
       link: https://www.eventbrite.com.br/e/testes-de-performance-inscricoes-a-partir-do-dia-02-05-as-23h-registration-43731000600
 
     - date: 24-05-2018
-      title: Test Driven Development - TDD
+      title: Workshop-Test Driven Development - TDD
       link: https://www.eventbrite.com.br/e/test-driven-development-tdd-inscricoes-a-partir-do-dia-17-05-as-23h-registration-43732427869
 
   junho:
     - date: 13-06-2018
-      title: Por que utilizar BDD?
+      title: Workshop-Por que utilizar BDD?
       link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
 
 
