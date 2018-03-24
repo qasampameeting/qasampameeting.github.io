@@ -22,5 +22,21 @@ title: Equipe QA Sampa Meeting
                 <a href="http://gcruz.com.br" target="_blank">gcruz.com.br</a>
             </p>
         </div>
+        <div class="card">
+            <a href="https://www.linkedin.com/in/ckilesse/" target="_blank">
+                <img src="/assets/img/team/charles-kilesse.jpg">
+            </a>
+            <p class="intro">Charles Kilesse<br/>organization<br/>
+                <a href="https://www.linkedin.com/in/ckilesse/" target="_blank">linkedin.com/ckilesse/</a>
+            </p>
+        </div>
+        <div class="card">
+            <a href="https://www.linkedin.com/in/rafael-grassi-ribon-2797b4b2/" target="_blank">
+                <img src="/assets/img/team/rafael-grassi.jpg">
+            </a>
+            <p class="intro">Rafael Grassi<br/>organization<br/>
+                <a href="https://www.linkedin.com/in/rafael-grassi-ribon-2797b4b2/" target="_blank">linkedin/rafael-grassi-ribon</a>
+            </p>
+        </div>
     </div>
 </div>

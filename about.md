@@ -7,12 +7,19 @@ title: Sobre QA Sampa Meeting
   <h1 class="pageTitle">sobre</h1>
   <div class="about-wrapper">
 	  <div class="about-text">
-		  <p class="intro">Para quem?</p>
-		  <p>Profissionais que desejam aprender sobre qualidade de software ou que desejam ingressar na área</p>
+		  <!-- <p class="intro">Para quem?</p>
+		  <p>Profissionais que desejam aprender sobre qualidade de software ou que desejam ingressar na área</p> -->
 
-		  <p class="intro">Por que?</p>
-		  <p>Reunião mensal para nos conhecermos e conversarmos sobre um tema dentro da área de qualidade de software. Teremos a presença de um convidado experiente ou com um conteúdo bacana para nos apresentar de maneira bem informal. Cada um poderá levar seu notebook para interagirmos com o tema explorado. O tema será disponibilizado com duas semanas de antecedência para anotarmos nossas dúvidas e outros detalhes que desejarmos.</p>
-		  <p>Muito café ou chá, conversa e troca de experiência e conhecimento!</p>
+		  <!-- <p class="intro">Por que?</p> -->
+		  <p> O QA Sampa Meeting surgiu da necessidade que sentimos em aprender sobre qualidade de software de forma PRÁTICA, colocando a mão na massa mesmo! </p>
+		  
+		  <p> O objetivo não é assistir uma palestra, mas sim participarmos de workshops com 30minutos de teoria e 2 horas de hands on pra treinarmos e tirarmos nossas dúvidas. </p> 
+		  
+		  <p> É uma iniciativa sem fins lucrativos, totalmente GRATUITA, com os seguintes valores: contribuir com a comunidade de qualidade, incentivar/ensinar a busca autodidata de conhecimento e valorizar/fortalecer o papel da qualidade no desenvolvimento de software.</p> 
+		  
+		  <p> Desta forma, vamos conseguir ter um gostinho e aprender o básico de como executar algumas ferramentas que fazem parte do dia-a-dia dos profissionais que querem garantir a qualidade de um software. </p> 
+		  
+		   <p> Estes workshops são direcionados para qualquer profissional que trabalhe com qualidade de software e não somente para QAs.</p>
 	  </div>
 
 	  <div class="sponsors">
