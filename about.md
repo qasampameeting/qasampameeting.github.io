@@ -19,7 +19,7 @@ title: Sobre QA Sampa Meeting
 		  
 		  <p> Desta forma, vamos conseguir ter um gostinho e aprender o básico de como executar algumas ferramentas que fazem parte do dia-a-dia dos profissionais que querem garantir a qualidade de um software. </p> 
 		  
-		   <p> Estes workshops são direcionados para qualquer profissional que trabalhe com qualidade de software e não somente para QAs.</p>
+		   <p> Estes workshops são direcionados para qualquer profissional que trabalhe ou queira aprender sobre qualidade de software e não somente para QAs.</p>
 	  </div>
 
 	  <div class="sponsors">
