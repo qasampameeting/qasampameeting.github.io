@@ -26,7 +26,7 @@ events:
     - date: 04-04-2018
       title: Hackers QA-encontro para codarmos junto
       link: https://www.eventbrite.com.br/e/hackers-qa-registration-44512733785
-    
+
     - date: 13-04-2018
       title: Workshop-Git para iniciantes
       link: https://www.eventbrite.com.br/e/git-para-iniciantes-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44058287524
@@ -107,7 +107,7 @@ social:
   meetup: https://www.meetup.com/pt-BR/qasampameeting
   linkedin: https://www.linkedin.com/company/qasampameeting
   facebook: https://www.facebook.com/qasampameeting
-  youtube: https://www.youtube.com/channel/UCGq0B659AiKi58KYl0ubllw?view_as=subscriber
+  youtube: https://www.youtube.com/c/QASampaMeeting
   twitter: https://twitter.com/qasampameeting
   instagram: https://www.instagram.com/qasampameeting
 
