@@ -22,13 +22,8 @@ navigation:
 
 # EVENTS
 events:
-  março:
-    - date: 28-03-2018
-      title: Workshop-Comece a automatizar com o Robot Framework
-      link: https://www.eventbrite.com.br/e/comece-a-automatizar-com-o-robot-framework-inscricoes-a-partir-do-dia-21-03-as-23h-registration-43290543180
-
   abril:
-    - date: 05-04-2018
+    - date: 04-04-2018
       title: Hackers QA-encontro para codarmos junto
       link: https://www.eventbrite.com.br/e/hackers-qa-registration-44512733785
     
@@ -57,11 +52,6 @@ events:
 
 # SPEAKERS
 speakers:
-  - name: Rodrigo Matola
-    image: rodrigo-matola.jpg
-    description: Tenho experiência em garantia de qualidade de software com foco em automação, apoio à equipe, registro e relatórios de erros, além de interface com empresas e clientes. Também possuo experiência em especificação, gerenciamento e comunicação de requisitos de infra-estrutura.
-    link: https://www.linkedin.com/in/rodrigomatola/
-
   - name: Debora Fernandes
     image: debora-fernandes.jpg
     description: Evoluir constantemente aprendendendo e absorvendo novas tecnologias, novas formas de trabalhar e novos conceitos de mercado.
@@ -96,6 +86,11 @@ speakers:
     image: fernando-papito.jpg
     description: Especialista em testes automatizados e entrega contínua. 15 anos atuando em testes e implantação de software em empresas do segmento financeiro, telecomunicações, marketing digital e programas de fidelização de clientes.
     link: https://www.linkedin.com/in/papitoio/
+  
+  - name: Rodrigo Matola
+    image: rodrigo-matola.jpg
+    description: Tenho experiência em garantia de qualidade de software com foco em automação, apoio à equipe, registro e relatórios de erros, além de interface com empresas e clientes. Também possuo experiência em especificação, gerenciamento e comunicação de requisitos de infra-estrutura.
+    link: https://www.linkedin.com/in/rodrigomatola/
 
   - name: Karoline Leite
     image: karoline-leite.jpg
