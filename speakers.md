@@ -24,7 +24,7 @@ title: Palestrantes QA Sampa Meeting
         </a>
       </div>
       <div class="card-content">
-        <span class="card-title center"><strong><a class="teal-text" href="{{ speaker.link }}" target="_blank">{{ speaker.name }}</a></strong></span>
+        <span class="card-title center"><a class="teal-text" href="{{ speaker.link }}" target="_blank"><h6>{{ speaker.name }}</h6></a></span>
       </div>
     </div>
   </div>
