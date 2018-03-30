@@ -26,7 +26,7 @@ events:
     - date: 13-04-2018
       title: Workshop-Git para iniciantes
       link: https://www.eventbrite.com.br/e/git-para-iniciantes-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44058287524
-    
+
     - date: 19-04-2018
       title: Hackers QA-encontro para codarmos junto
       link: https://www.eventbrite.com.br/e/hackers-qa-inscricoes-a-partir-do-dia-14-04-as-23h-registration-44512733785
@@ -54,53 +54,69 @@ events:
 speakers:
   - name: Debora Fernandes
     image: debora-fernandes.jpg
-    description: Evoluir constantemente aprendendendo e absorvendo novas tecnologias, novas formas de trabalhar e novos conceitos de mercado.
     link: https://www.linkedin.com/in/debborafernandess/
 
   - name: Nathanael Araújo
     image: nathanael-araujo.jpg
-    description: QA Chapter Leader na Concrete Solutions.
     link: https://www.linkedin.com/in/nathanaelaraujo
 
   - name: Samuel Pereira
     image: samuel-pereira.jpg
-    description: QA Chapter Leader na Concrete Solutions
     link: https://www.linkedin.com/in/samuel-pereira-68327b23
 
   - name: Júlio de Lima
     image: julio-lima.jpg
-    description: Senior Consultant na Capco
     link: https://www.linkedin.com/in/juliodelimas/
 
   - name: Camila Campos
     image: camila-campos.jpg
-    description: Software Engineer na Creditas | Organizadora Rails Girls São Paulo e Women Dev Summit
     link: https://www.linkedin.com/in/camilacamposramos/
 
   - name: Júlia Birkett
     image: julia-birkett.jpg
-    description: Software Engineer na Creditas - Adoro a tecnologia e a programação e acho que a melhor maneira de aprender é praticar seu conhecimento!
     link: https://www.linkedin.com/in/birkettjulia/
 
   - name: Fernando Papito
     image: fernando-papito.jpg
-    description: Especialista em testes automatizados e entrega contínua. 15 anos atuando em testes e implantação de software em empresas do segmento financeiro, telecomunicações, marketing digital e programas de fidelização de clientes.
     link: https://www.linkedin.com/in/papitoio/
-  
+
   - name: Rodrigo Matola
     image: rodrigo-matola.jpg
-    description: Tenho experiência em garantia de qualidade de software com foco em automação, apoio à equipe, registro e relatórios de erros, além de interface com empresas e clientes. Também possuo experiência em especificação, gerenciamento e comunicação de requisitos de infra-estrutura.
     link: https://www.linkedin.com/in/rodrigomatola/
 
   - name: Karoline Leite
     image: karoline-leite.jpg
-    description: Mais de 9 anos de experiência trabalhando com garantia de qualidade de software e testes. Nos últimos anos, concentrei minha carreira em testar técnicas de automação e teste de desempenho, bem como práticas e metodologias ágeis.
     link: https://www.linkedin.com/in/karolxavierleite
 
   - name: Wellington Avelino
     image: wellington-avelino.jpg
-    description: Profissional formado em análise e desenvolvimento de sistemas, com fortes conhecimentos em desenvolvimento mobile e web, atualmente trabalho como QA desenvolvendo especificações vivas do sistema, também sou grande entusiasta de especificação por exemplo e metodologias ágeis.
     link: https://www.linkedin.com/in/wellington-avelino
+
+# TEAM
+team:
+  - name: Carla Crude
+    role: founder
+    image: carla-crude.jpg
+    link: https://about.me/carla_crude
+    link_text: about.me/carla_crude
+
+  - name: Guilherme Cruz
+    role: co-founder
+    image: guilherme-cruz.jpg
+    link: http://gcruz.com.br
+    link_text: gcruz.com.br
+
+  - name: Charles Kilesse
+    role: organization
+    image: charles-kilesse.jpg
+    link: https://www.linkedin.com/in/ckilesse/
+    link_text: linkedin.com/ckilesse/
+
+  - name: Rafael Grassi
+    role: organization
+    image: rafael-grassi.jpg
+    link: https://www.linkedin.com/in/rafael-grassi-ribon-2797b4b2/
+    link_text: linkedin/rafael-grassi-ribon
 
 # SOCIAL MEDIA
 social:
