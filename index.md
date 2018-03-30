@@ -18,47 +18,56 @@ title: QA Sampa Meeting
   <div class="parallax"><img src="assets/img/folks.jpg" alt="Unsplashed background img 1" style="transform: translate3d(-50%, 326.131px, 0px); opacity: 1;"></div>
 </div>
 
-<div class="home" id="home">
-  <div class="home-about">
-    <div class="container">
-      <div class="title">sobre</div>
-      <div class="description">
-        <div class="text">Evento para profissionais que desejam aprender sobre Qualidade de Software</div>
-        <div class="photo"><a href="/about"><img src="/assets/img/home-about.jpg"></a></div>
-      </div>
-      <a class="more" href="/about">Saiba mais</a>
+<div class="container">
+  <!-- ABOUT -->
+  <div class="row">
+    <div class="col s12"><h3><strong>sobre</strong></h3></div>
+  </div>
+  <div class="row">
+    <div class="col s12 m6">
+      <p class="flow-text">Evento para profissionais que desejam aprender sobre Qualidade de Software</p>
+      <a href="/about" class="waves-effect waves-light btn"><i class="material-icons right">add</i>Saiba mais</a>
+    </div>
+    <div class="col s6 center hide-on-small-only">
+      <a href="/about"><img src="/assets/img/home-about.jpg"></a>
     </div>
   </div>
+  <div class="divider"></div>
 
-  <div class="home-speakers">
-    <div class="container">
-      <div class="title">palestrantes</div>
-      <div class="description">
-        <div class="text">Estas serão nossas inspirações para os próximos eventos</div>
-        <div class="cards">
-          {% for speaker in site.speakers limit: 3 %}
-            <div class="speaker">
-              <div class="photo">
-                <a href="/speakers"><img src="/assets/img/speakers/{{ speaker.image }}"></a>
-              </div>
-              <div class="name">
-                <a href="/speakers">{{ speaker.name }}</a>
-              </div>
-            </div>
-          {% endfor %}
+  <!-- SPEAKERS -->
+  <div class="row">
+    <div class="col s12"><h3><strong>palestrantes</strong></h3></div>
+  </div>
+  <div class="row">
+    <div class="col s12 m6">
+      <p class="flow-text">Estas serão nossas inspirações para os próximos eventos</p>
+      <a href="/speakers" class="waves-effect waves-light btn"><i class="material-icons right">add</i>Saiba mais</a>
+    </div>
+    {% for speaker in site.speakers limit: 3 %}
+      <div class="col s2 hide-on-small-only">
+        <div class="card">
+          <div class="card-image">
+            <a href="/speakers">
+              <img src="/assets/img/speakers/{{ speaker.image }}">
+            </a>
+          </div>
+          <div class="card-content center">
+            <a href="/speakers">{{ speaker.name }}</a>
+          </div>
         </div>
       </div>
-      <a class="more" href="/speakers">Saiba mais</a>
-    </div>
+    {% endfor %}
   </div>
+  <div class="divider"></div>
 
-  <div class="home-events">
-    <div class="container">
-      <div class="title">eventos</div>
-      <div class="description">
-        <div class="text">Confira nossa agenda de eventos</div>
-      </div>
-      <a class="more" href="/events">Saiba mais</a>
+  <!-- EVENTS -->
+  <div class="row">
+    <div class="col s12"><h3><strong>eventos</strong></h3></div>
+  </div>
+  <div class="row">
+    <div class="col s12 m6">
+      <p class="flow-text">Confira nossa agenda de eventos</p>
+      <a href="/events" class="waves-effect waves-light btn"><i class="material-icons right">add</i>Saiba mais</a>
     </div>
   </div>
 </div>
