@@ -92,6 +92,32 @@ speakers:
     image: wellington-avelino.jpg
     link: https://www.linkedin.com/in/wellington-avelino
 
+# TEAM
+team:
+  - name: Carla Crude
+    role: founder
+    image: carla-crude.jpg
+    link: https://about.me/carla_crude
+    link_text: about.me/carla_crude
+
+  - name: Guilherme Cruz
+    role: co-founder
+    image: guilherme-cruz.jpg
+    link: http://gcruz.com.br
+    link_text: gcruz.com.br
+
+  - name: Charles Kilesse
+    role: organization
+    image: charles-kilesse.jpg
+    link: https://www.linkedin.com/in/ckilesse/
+    link_text: linkedin.com/ckilesse/
+
+  - name: Rafael Grassi
+    role: organization
+    image: rafael-grassi.jpg
+    link: https://www.linkedin.com/in/rafael-grassi-ribon-2797b4b2/
+    link_text: linkedin/rafael-grassi-ribon
+
 # SOCIAL MEDIA
 social:
   meetup: https://www.meetup.com/pt-BR/qasampameeting
