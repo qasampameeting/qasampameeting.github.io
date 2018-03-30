@@ -52,7 +52,7 @@ title: QA Sampa Meeting
             </a>
           </div>
           <div class="card-content center">
-            <a href="/speakers">{{ speaker.name }}</a>
+            <a href="/speakers" class="teal-text">{{ speaker.name }}</a>
           </div>
         </div>
       </div>
