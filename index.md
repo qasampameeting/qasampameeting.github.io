@@ -3,19 +3,22 @@ layout: default
 title: QA Sampa Meeting
 ---
 
-<div class="home" id="home">
-  <div class="next-event">
+<div id="index-banner" class="parallax-container">
+  <div class="section no-pad-bot">
     <div class="container">
-      <div class="call">Próximo evento</div>
       {% assign next_event = site.events.first[1].first %}
-      <div class="event-title">{{ next_event.title }}</div>
-        {% assign event_date = next_event.date | split: "-" %}
-      <div class="date">
-        <a href="/events">{{ event_date.first }} de {{ site.events.first[0] }} de {{ event_date.last }}</a>
+      {% assign event_date = next_event.date | split: "-" %}
+      <div class="row center">
+        <a href="/events" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">
+          Próximo evento: {{ event_date.first }} de {{ site.events.first[0] }} de {{ event_date.last }}
+        </a>
       </div>
     </div>
   </div>
+  <div class="parallax"><img src="assets/img/folks.jpg" alt="Unsplashed background img 1" style="transform: translate3d(-50%, 326.131px, 0px); opacity: 1;"></div>
+</div>
 
+<div class="home" id="home">
   <div class="home-about">
     <div class="container">
       <div class="title">sobre</div>
