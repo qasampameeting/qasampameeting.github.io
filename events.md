@@ -19,7 +19,7 @@ title: Eventos QA Sampa Meeting
   <div class="col s12 m3">
     <div class="card white grey-text text-darken-4">
       <div class="card-content">
-        <span class="card-title"><strong>{{ event.title }}</strong></span>
+        <span class="card-title"><h6><strong>{{ event.title }}</strong></h6></span>
         <p>
           {{ event.date }}
         </p>
