@@ -7,7 +7,7 @@ title: Equipe QA Sampa Meeting
 <div class="divider"></div>
 <div class="row">
   {% for member in site.team %}
-  <div class="col s12 m6 l4 xl3">
+  <div class="col s12 m6 l4">
     <div class="card white grey-text text-darken-4">
       <div class="card-image">
         <a href="{{ member.link }}" target="_blank">
