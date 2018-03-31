@@ -21,11 +21,22 @@ title: Sobre QA Sampa Meeting
 
 <div class="row white teal-text center-align sponsors">
   <h5><strong>Patrocínio</strong></h5>
-  <div class="col s12 valign-wrapper center-align sponsors-logos">
-    {% for sponsor in site.sponsors %}
-        <a href="{{ sponsor[1] }}" target="_blank">
-          <img style="max-height:64px;" src="/assets/img/sponsors/{{ sponsor[0] }}.png">
-        </a>
-    {% endfor %}
+  <div class="hide-on-med-and-down">
+    <div class="col s12 valign-wrapper center-align sponsors-logos">
+      {% for sponsor in site.sponsors %}
+          <a href="{{ sponsor[1] }}" target="_blank">
+            <img style="max-height:64px;" src="/assets/img/sponsors/{{ sponsor[0] }}.png">
+          </a>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="hide-on-large-only">
+    <div class="col s12 valign-wrapper center-align sponsors-logos-vertical">
+      {% for sponsor in site.sponsors %}
+          <a href="{{ sponsor[1] }}" target="_blank">
+            <img style="max-height:64px;" src="/assets/img/sponsors/{{ sponsor[0] }}.png">
+          </a>
+      {% endfor %}
+    </div>
   </div>
 </div>

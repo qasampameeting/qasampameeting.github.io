@@ -80,6 +80,11 @@ footer.page-footer {
   flex-wrap: wrap;
 }
 
+.sponsors-logos-vertical {
+  display: flex;
+  flex-direction: column;
+}
+
 .qasp-form {
   margin-top: 15px;
 }
