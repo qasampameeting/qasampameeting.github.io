@@ -16,7 +16,7 @@ title: Eventos QA Sampa Meeting
 </nav>
 <div class="row">
 {% for event in month_events[1] %}
-  <div class="col s12 m3">
+  <div class="col s12 m6 l4">
     <div class="card white grey-text text-darken-4">
       <div class="card-content">
         <span class="card-title"><h6><strong>{{ event.title }}</strong></h6></span>
