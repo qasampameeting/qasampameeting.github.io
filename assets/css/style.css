@@ -69,40 +69,15 @@ footer.page-footer {
 }
 
 .sponsors {
-    background-color: #FFF;
-    height: 338px;
-    text-align: center;
-    font-size: 30px;
+  padding-top: 5px;
+  padding-bottom: 20px;
 }
 
-.sponsors:after {
-    content: "";
-    border-left: 15px solid transparent;
-    border-right: 15px solid transparent;
-    border-top: solid 15px #FFF;
-    width: 0;
-    position: relative;
-    top: 38px;
-}
-
-.sponsors h5 {
-    color: #5DA092;
-    margin-bottom: 15px;
-    padding-top: 15px;
-}
-
-.sponsors .logos{
-    display: flex;
-    flex-wrap: wrap;
-    width: 275px;
-    justify-content: center;
-    margin: auto;
-}
-
-.sponsors .logos a img {
-    width: 110px;
-    text-align: center;
-    margin: 0 7px;
+.sponsors-logos {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  flex-wrap: wrap;
 }
 
 .qasp-form {

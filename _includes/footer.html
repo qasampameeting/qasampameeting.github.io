@@ -1,7 +1,7 @@
-<footer class="page-footer  grey darken-4">
+<footer class="page-footer grey darken-4">
   <div class="container">
     <div class="row">
-      <div class="col l12 s12 center-align">
+      <div class="col s12 center-align">
         {% for social_media in site.social %}
           <a href="{{ social_media[1] }}" target='_blank'>
              <img src="/assets/img/social/{{ social_media[0] }}.png">
@@ -12,7 +12,7 @@
   </div>
   <div class="footer-copyright">
     <div class="container center-align">
-      {{ site.time | date: '%Y' }} QA Sampa Meeting & <a href="http://gcruz.com.br/">Guilherme Cruz</a>
+      {{ site.time | date: '%Y' }} QA Sampa Meeting & <a href="http://gcruz.com.br/" target='_blank'>Guilherme Cruz</a>
     </div>
   </div>
 </footer>

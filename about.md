@@ -6,7 +6,7 @@ title: Sobre QA Sampa Meeting
 <div class="row"><div class="col s12"><h1 class="qasp-title">sobre</h1></div></div>
 <div class="divider"></div>
 <div class="row">
-  <div class="col m8 s12">
+  <div class="col s12">
     <p class="flow-text text-justify"> O QA Sampa Meeting surgiu da necessidade que sentimos em aprender sobre qualidade de software de forma PRÁTICA, colocando a mão na massa mesmo! </p>
 
     <p class="flow-text text-justify"> O objetivo não é assistir uma palestra, mas sim participarmos de workshops com 30minutos de teoria e 2 horas de hands on pra treinarmos e tirarmos nossas dúvidas. </p>
@@ -17,16 +17,15 @@ title: Sobre QA Sampa Meeting
 
      <p class="flow-text text-justify"> Estes workshops são direcionados para qualquer profissional que trabalhe ou queira aprender sobre qualidade de software e não somente para QAs.</p>
   </div>
-  <div class="col m4 s12">
-    <div class="sponsors">
-      <h5>Patrocínio</h5>
-      <div class="logos">
-        {% for sponsor in site.sponsors %}
-          <a href="{{ sponsor[1] }}" target="_blank">
-            <img src="/assets/img/sponsors/{{ sponsor[0] }}.png">
-          </a>
-        {% endfor %}
-      </div>
-    </div>
+</div>
+
+<div class="row white teal-text center-align sponsors">
+  <h5><strong>Patrocínio</strong></h5>
+  <div class="col s12 valign-wrapper center-align sponsors-logos">
+    {% for sponsor in site.sponsors %}
+        <a href="{{ sponsor[1] }}" target="_blank">
+          <img style="max-height:64px;" src="/assets/img/sponsors/{{ sponsor[0] }}.png">
+        </a>
+    {% endfor %}
   </div>
 </div>
