@@ -1,20 +1,15 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
-<!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-
-    {% include head.html %}
-
-    <body>
-        {% include header.html %}
-            <div class="content main">
-                <div class="container">
-                    {{ content }}
-                </div>
-            </div><!-- end .content -->
-        {% include footer.html %}
-        {% include scripts.html %}
-    </body>
-
+{% include head.html %}
+  <body>
+    <header>
+      {% include header.html %}
+    </header>
+    <main class="grey darken-4 white-text">
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
 </html>

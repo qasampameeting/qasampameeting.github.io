@@ -22,48 +22,108 @@ navigation:
 
 # EVENTS
 events:
-  fevereiro:
-    date: 22-02-2018
-    title: O papel do QA na Integração Contínua
-    link: https://www.meetup.com/pt-BR/qasampameeting/events/cqvphpyxfbcc
-  março:
-    date: 16-03-2018
-    title: Automação de testes em front-end
-    link: https://www.meetup.com/pt-BR/qasampameeting/events/247575648
   abril:
-    date: 26-04-2018
-    title: Por que testar APIs?
-    link: https://www.meetup.com/pt-BR/qasampameeting/events/247818680
+    - date: 13-04-2018
+      title: Workshop-Git para iniciantes
+      link: https://www.eventbrite.com.br/e/git-para-iniciantes-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44058287524
+
+    - date: 19-04-2018
+      title: Hackers QA-encontro para codarmos junto
+      link: https://www.eventbrite.com.br/e/hackers-qa-inscricoes-a-partir-do-dia-14-04-as-23h-registration-44512733785
+
+    - date: 26-04-2018
+      title: Workshop-Por que testar APIs?
+      link: https://www.eventbrite.com.br/e/por-que-testar-apis-inscricoes-a-partir-do-dia-19-04-as-23h-registration-43291305460
+
+  maio:
+    - date: 10-05-2018
+      title: Workshop-Testes de Performance
+      link: https://www.eventbrite.com.br/e/testes-de-performance-inscricoes-a-partir-do-dia-02-05-as-23h-registration-43731000600
+
+    - date: 24-05-2018
+      title: Workshop-Test Driven Development - TDD
+      link: https://www.eventbrite.com.br/e/test-driven-development-tdd-inscricoes-a-partir-do-dia-17-05-as-23h-registration-43732427869
+
+  junho:
+    - date: 13-06-2018
+      title: Workshop-Por que utilizar BDD?
+      link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
+
 
 # SPEAKERS
 speakers:
-  - name: Wellington Avelino
-    image: wellington-avelino.jpg
-    description: Profissional formado em análise e desenvolvimento de sistemas, com fortes conhecimentos em desenvolvimento mobile e web, atualmente trabalho como QA desenvolvendo especificações vivas do sistema, também sou grande entusiasta de especificação por exemplo e metodologias ágeis.
-    link: https://www.linkedin.com/in/wellington-avelino
-  - name: Karoline Leite
-    image: karoline-leite.jpg
-    description: Mais de 9 anos de experiência trabalhando com garantia de qualidade de software e testes. Nos últimos anos, concentrei minha carreira em testar técnicas de automação e teste de desempenho, bem como práticas e metodologias ágeis.
-    link: https://www.linkedin.com/in/karolxavierleite
+  - name: Debora Fernandes
+    image: debora-fernandes.jpg
+    link: https://www.linkedin.com/in/debborafernandess/
+
   - name: Nathanael Araújo
     image: nathanael-araujo.jpg
-    description: QA Chapter Leader na Concrete Solutions.
     link: https://www.linkedin.com/in/nathanaelaraujo
+
   - name: Samuel Pereira
     image: samuel-pereira.jpg
-    description: QA Chapter Leader na Concrete Solutions
     link: https://www.linkedin.com/in/samuel-pereira-68327b23
+
+  - name: Júlio de Lima
+    image: julio-lima.jpg
+    link: https://www.linkedin.com/in/juliodelimas/
+
+  - name: Camila Campos
+    image: camila-campos.jpg
+    link: https://www.linkedin.com/in/camilacamposramos/
+
+  - name: Júlia Birkett
+    image: julia-birkett.jpg
+    link: https://www.linkedin.com/in/birkettjulia/
+
+  - name: Fernando Papito
+    image: fernando-papito.jpg
+    link: https://www.linkedin.com/in/papitoio/
+
   - name: Rodrigo Matola
     image: rodrigo-matola.jpg
-    description: Tenho experiência em garantia de qualidade de software com foco em automação, apoio à equipe, registro e relatórios de erros, além de interface com empresas e clientes. Também possuo experiência em especificação, gerenciamento e comunicação de requisitos de infra-estrutura.
     link: https://www.linkedin.com/in/rodrigomatola/
+
+  - name: Karoline Leite
+    image: karoline-leite.jpg
+    link: https://www.linkedin.com/in/karolxavierleite
+
+  - name: Wellington Avelino
+    image: wellington-avelino.jpg
+    link: https://www.linkedin.com/in/wellington-avelino
+
+# TEAM
+team:
+  - name: Carla Crude
+    role: founder
+    image: carla-crude.jpg
+    link: https://about.me/carla_crude
+    link_text: about.me/carla_crude
+
+  - name: Guilherme Cruz
+    role: co-founder
+    image: guilherme-cruz.jpg
+    link: http://gcruz.com.br
+    link_text: gcruz.com.br
+
+  - name: Charles Kilesse
+    role: organization
+    image: charles-kilesse.jpg
+    link: https://www.linkedin.com/in/ckilesse/
+    link_text: linkedin.com/ckilesse/
+
+  - name: Rafael Grassi
+    role: organization
+    image: rafael-grassi.jpg
+    link: https://www.linkedin.com/in/rafael-grassi-ribon-2797b4b2/
+    link_text: linkedin/rafael-grassi-ribon
 
 # SOCIAL MEDIA
 social:
   meetup: https://www.meetup.com/pt-BR/qasampameeting
   linkedin: https://www.linkedin.com/company/qasampameeting
   facebook: https://www.facebook.com/qasampameeting
-  youtube: https://www.youtube.com/channel/UCGq0B659AiKi58KYl0ubllw?view_as=subscriber
+  youtube: https://www.youtube.com/c/QASampaMeeting
   twitter: https://twitter.com/qasampameeting
   instagram: https://www.instagram.com/qasampameeting
 

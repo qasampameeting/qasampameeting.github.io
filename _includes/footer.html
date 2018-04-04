@@ -1,17 +1,18 @@
-<div class="footer">
-   <div class="container">
-      <div class="footer-links">
-         <ul class="noList">
-            {% for social_media in site.social %}
-               <li>
-                  <a href="{{ social_media[1] }}" target='_blank'>
-                     <img src="/assets/img/social/{{ social_media[0] }}.png">
-                  </a>
-               </li>
-            {% endfor %}
-         </ul>
+<footer class="page-footer grey darken-4">
+  <div class="container">
+    <div class="row">
+      <div class="col s12 center-align">
+        {% for social_media in site.social %}
+          <a href="{{ social_media[1] }}" target='_blank'>
+             <img src="/assets/img/social/{{ social_media[0] }}.png">
+          </a>
+        {% endfor %}
       </div>
-      <p class="copy"> &copy; {{ site.time | date: '%Y' }} QA Sampa Meeting & <a href="http://gcruz.com.br/">Guilherme Cruz</a></p>
-   </div>
-</div><!-- end .footer -->
-
+    </div>
+  </div>
+  <div class="footer-copyright">
+    <div class="container center-align">
+      {{ site.time | date: '%Y' }} QA Sampa Meeting & <a href="http://gcruz.com.br/" target='_blank'>Guilherme Cruz</a>
+    </div>
+  </div>
+</footer>
