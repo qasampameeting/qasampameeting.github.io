@@ -25,32 +25,46 @@ events:
   abril:
     - date: 13-04-2018
       title: Workshop-Git para iniciantes
+      name: Débora Fernandes
+      local: Campus Code
       link: https://www.eventbrite.com.br/e/git-para-iniciantes-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44058287524
 
     - date: 13-04-2018
       title: "Testes de performance: Por onde começar?"
+      name: Alan Gularte
+      local: ThoughtWorks
       link: https://www.eventbrite.com.br/e/testes-de-performance-para-aplicacoes-web-por-onde-comecar-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44833632602
 
     - date: 19-04-2018
       title: Hackers QA-encontro para codarmos junto
+      name:  Todos nós
+      local: Creditas
       link: https://www.eventbrite.com.br/e/hackers-qa-inscricoes-a-partir-do-dia-14-04-as-23h-registration-44512733785
 
     - date: 26-04-2018
       title: Workshop-Por que testar APIs?
+      name: Samuel Pereira e Nathanael Araújo
+      local: Caelum
       link: https://www.eventbrite.com.br/e/por-que-testar-apis-inscricoes-a-partir-do-dia-19-04-as-23h-registration-43291305460
 
   maio:
     - date: 10-05-2018
       title: Workshop-Testes de Performance
+      name: Júlio de Lima
+      local: Caelum
       link: https://www.eventbrite.com.br/e/testes-de-performance-inscricoes-a-partir-do-dia-02-05-as-23h-registration-43731000600
 
     - date: 24-05-2018
       title: Workshop-Test Driven Development - TDD
+      name: Camila e Júlia
+      local: Caelum
       link: https://www.eventbrite.com.br/e/test-driven-development-tdd-inscricoes-a-partir-do-dia-17-05-as-23h-registration-43732427869
 
   junho:
     - date: 13-06-2018
       title: Workshop-Por que utilizar BDD?
+      name: Fernando Papito
+      local: a definir
       link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
 
 

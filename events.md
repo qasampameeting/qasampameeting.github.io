@@ -23,6 +23,10 @@ title: Eventos QA Sampa Meeting
         <p>
           {{ event.date }}
         </p>
+        <h7><strong>Palestrante:</strong> {{ event.name }} </h7>
+        <p>
+          <h7><strong>Local:</strong> {{ event.local }} </h7>
+        </p>
       </div>
       <div class="card-action">
         <a href="{{ event.link }}" {% if event.link %}target="_blank"{% endif %} class="waves-effect waves-light btn">
