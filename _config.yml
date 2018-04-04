@@ -27,6 +27,10 @@ events:
       title: Workshop-Git para iniciantes
       link: https://www.eventbrite.com.br/e/git-para-iniciantes-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44058287524
 
+    - date: 13-04-2018
+      title: "Testes de performance: Por onde começar?"
+      link: https://www.eventbrite.com.br/e/testes-de-performance-para-aplicacoes-web-por-onde-comecar-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44833632602
+
     - date: 19-04-2018
       title: Hackers QA-encontro para codarmos junto
       link: https://www.eventbrite.com.br/e/hackers-qa-inscricoes-a-partir-do-dia-14-04-as-23h-registration-44512733785
@@ -55,6 +59,10 @@ speakers:
   - name: Debora Fernandes
     image: debora-fernandes.jpg
     link: https://www.linkedin.com/in/debborafernandess/
+
+  - name: Alan Gularte
+    image: alan-gularte.jpg
+    link: https://www.linkedin.com/in/alancafrunigularte/
 
   - name: Nathanael Araújo
     image: nathanael-araujo.jpg
