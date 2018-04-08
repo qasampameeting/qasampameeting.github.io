@@ -25,7 +25,7 @@ events:
   abril:
     - date: 13-04-2018
       title: Workshop-Git para iniciantes
-      name: Débora Fernandes
+      name: Débora Fernande
       local: Campus Code
       link: https://www.eventbrite.com.br/e/git-para-iniciantes-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44058287524
 
@@ -43,7 +43,7 @@ events:
 
     - date: 26-04-2018
       title: Workshop-Por que testar APIs?
-      name: Samuel Pereira e Nathanael Araújo
+      name: Samuel e Nathanael
       local: Caelum
       link: https://www.eventbrite.com.br/e/por-que-testar-apis-inscricoes-a-partir-do-dia-19-04-as-23h-registration-43291305460
 
@@ -64,13 +64,25 @@ events:
     - date: 13-06-2018
       title: Workshop-Por que utilizar BDD?
       name: Fernando Papito
-      local: a definir
+      local: Moip
       link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
+  
+    - date: 27-06-2018
+      title: Visual Regression Testing
+      name: Samanta Cicilia
+      local: Moip
 
+  julho:
+    - date: Data a definir
+      title: Automação com Appium
+      name: Thialison e Darling
+      local: a definir
+
+  
 
 # SPEAKERS
 speakers:
-  - name: Debora Fernandes
+  - name: Débora Fernande
     image: debora-fernandes.jpg
     link: https://www.linkedin.com/in/debborafernandess/
 
@@ -102,6 +114,18 @@ speakers:
     image: fernando-papito.jpg
     link: https://www.linkedin.com/in/papitoio/
 
+  - name: Samanta Cicilia
+    image: samanta-cicilia.jpg
+    link: https://www.linkedin.com/in/samantacici/
+
+  - name: Thialison Souza
+    image: thialison-souza.jpg
+    link: https://www.linkedin.com/in/thialisontester/
+
+  - name: Darling Cabral
+    image: darling-cabral.jpg
+    link: https://www.linkedin.com/in/darling-cabral-6b709a49/
+
   - name: Rodrigo Matola
     image: rodrigo-matola.jpg
     link: https://www.linkedin.com/in/rodrigomatola/
@@ -110,7 +134,7 @@ speakers:
     image: karoline-leite.jpg
     link: https://www.linkedin.com/in/karolxavierleite
 
-  - name: Wellington Avelino
+  - name: Wellington Avelin
     image: wellington-avelino.jpg
     link: https://www.linkedin.com/in/wellington-avelino
 
@@ -140,6 +164,38 @@ team:
     link: https://www.linkedin.com/in/rafael-grassi-ribon-2797b4b2/
     link_text: linkedin/rafael-grassi-ribon
 
+  - name: Luna Ticeu
+    role: organization
+    image: luna-ticeu.jpg
+    link: https://www.linkedin.com/in/luna-ticeu-ctfl-ctfl-at-373a95104/
+    link_text: linkedin/luna-ticeu
+
+  - name: Nathália Freire
+    role: organization
+    image: nathalia-freire.jpg
+    link: https://www.linkedin.com/in/nathalia-freire-43620331/
+    link_text: linkedin/nathalia-freire
+
+  - name: Maico Santos
+    role: organization
+    image: maico-santos.jpg
+    link: https://www.linkedin.com/in/maico-santos-8470031a/
+    link_text: linkedin/maico-santos
+
+  - name: Rafael Amaral
+    role: organization
+    image: rafael-amaral.jpg
+    link: https://www.linkedin.com/in/amaralrfl/
+    link_text: linkedin/rafael-amaral
+
+  - name: Bruna Rosa
+    role: organization
+    image: bruna-rosa.jpg
+    link: https://www.linkedin.com/in/bruna-rosa-qa/
+    link_text: linkedin/bruna-rosa
+
+    
+
 # SOCIAL MEDIA
 social:
   meetup: https://www.meetup.com/pt-BR/qasampameeting
@@ -153,6 +209,7 @@ sponsors:
   thoughtworks: https://www.thoughtworks.com/pt
   campuscode: https://campuscode.com.br
   caelum: https://www.caelum.com.br
+  moip: https://moip.com.br/
   giovana: https://www.instagram.com/giovanasantosfotografia
   walkandclick: https://www.facebook.com/walkandclickon
 
