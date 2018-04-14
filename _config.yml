@@ -23,18 +23,6 @@ navigation:
 # EVENTS
 events:
   abril:
-    - date: 13-04-2018
-      title: Workshop-Git para iniciantes
-      name: Débora Fernande
-      local: Campus Code
-      link: https://www.eventbrite.com.br/e/git-para-iniciantes-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44058287524
-
-    - date: 13-04-2018
-      title: "Testes de performance: Por onde começar?"
-      name: Alan Gularte
-      local: ThoughtWorks
-      link: https://www.eventbrite.com.br/e/testes-de-performance-para-aplicacoes-web-por-onde-comecar-inscricoes-a-partir-do-dia-06-04-as-23h-registration-44833632602
-
     - date: 19-04-2018
       title: Hackers QA-encontro para codarmos junto
       name:  Todos nós
@@ -43,7 +31,7 @@ events:
 
     - date: 26-04-2018
       title: Workshop-Por que testar APIs?
-      name: Samuel e Nathanael
+      name: Samuel/Nathanael
       local: Caelum
       link: https://www.eventbrite.com.br/e/por-que-testar-apis-inscricoes-a-partir-do-dia-19-04-as-23h-registration-43291305460
 
@@ -82,13 +70,6 @@ events:
 
 # SPEAKERS
 speakers:
-  - name: Débora Fernande
-    image: debora-fernandes.jpg
-    link: https://www.linkedin.com/in/debborafernandess/
-
-  - name: Alan Gularte
-    image: alan-gularte.jpg
-    link: https://www.linkedin.com/in/alancafrunigularte/
 
   - name: Nathanael Araújo
     image: nathanael-araujo.jpg
@@ -125,6 +106,14 @@ speakers:
   - name: Darling Cabral
     image: darling-cabral.jpg
     link: https://www.linkedin.com/in/darling-cabral-6b709a49/
+
+  - name: Débora Fernande
+    image: debora-fernandes.jpg
+    link: https://www.linkedin.com/in/debborafernandess/
+
+  - name: Alan Gularte
+    image: alan-gularte.jpg
+    link: https://www.linkedin.com/in/alancafrunigularte/
 
   - name: Rodrigo Matola
     image: rodrigo-matola.jpg
