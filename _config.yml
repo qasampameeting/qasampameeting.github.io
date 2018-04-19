@@ -59,6 +59,7 @@ events:
       title: Visual Regression Testing
       name: Samanta Cicilia
       local: Moip
+      link: https://www.eventbrite.com.br/e/automatizando-visual-regression-testing-inscricoes-a-partir-de-18-06-as-23h-registration-45193463867
 
   julho:
     - date: Data a definir
@@ -130,65 +131,59 @@ speakers:
 # TEAM
 team:
   - name: Carla Crude
-    role: founder
     image: carla-crude.jpg
     link: https://about.me/carla_crude
     link_text: about.me/carla_crude
 
   - name: Guilherme Cruz
-    role: co-founder
     image: guilherme-cruz.jpg
     link: http://gcruz.com.br
     link_text: gcruz.com.br
 
   - name: Charles Kilesse
-    role: organization
     image: charles-kilesse.jpg
     link: https://www.linkedin.com/in/ckilesse/
     link_text: linkedin.com/ckilesse/
 
   - name: Rafael Grassi
-    role: organization
     image: rafael-grassi.jpg
     link: https://www.linkedin.com/in/rafael-grassi-ribon-2797b4b2/
     link_text: linkedin/rafael-grassi-ribon
 
   - name: Luna Ticeu
-    role: organization
     image: luna-ticeu.jpg
     link: https://www.linkedin.com/in/luna-ticeu-ctfl-ctfl-at-373a95104/
     link_text: linkedin/luna-ticeu
 
   - name: Nathália Freire
-    role: organization
     image: nathalia-freire.jpg
     link: https://www.linkedin.com/in/nathalia-freire-43620331/
     link_text: linkedin/nathalia-freire
 
   - name: Maico Santos
-    role: organization
     image: maico-santos.jpg
     link: https://www.linkedin.com/in/maico-santos-8470031a/
     link_text: linkedin/maico-santos
 
   - name: Rafael Amaral
-    role: organization
     image: rafael-amaral.jpg
     link: https://www.linkedin.com/in/amaralrfl/
     link_text: linkedin/rafael-amaral
 
   - name: Bruna Rosa
-    role: organization
     image: bruna-rosa.jpg
     link: https://www.linkedin.com/in/bruna-rosa-qa/
     link_text: linkedin/bruna-rosa
 
   - name: Marcelo Monteiro
-    role: organization
     image: marcelo-monteiro.jpg
     link: https://www.linkedin.com/in/marcelo-monteiro-7887666b/
     link_text: linkedin/marcelo-monteiro
-
+  
+  - name: Rodrigo Matola
+    image: rodrigo-matola.jpg
+    link: https://www.linkedin.com/in/rodrigomatola/
+    link_text: linkedin/rodrigo-matola
 
     
 
