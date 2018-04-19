@@ -54,7 +54,7 @@ events:
       name: Fernando Papito
       local: Moip
       link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
-  
+
     - date: 27-06-2018
       title: Visual Regression Testing
       name: Samanta Cicilia
@@ -67,11 +67,8 @@ events:
       name: Thialison e Darling
       local: a definir
 
-  
-
 # SPEAKERS
 speakers:
-
   - name: Nathanael Araújo
     image: nathanael-araujo.jpg
     link: https://www.linkedin.com/in/nathanaelaraujo
@@ -179,13 +176,11 @@ team:
     image: marcelo-monteiro.jpg
     link: https://www.linkedin.com/in/marcelo-monteiro-7887666b/
     link_text: linkedin/marcelo-monteiro
-  
+
   - name: Rodrigo Matola
     image: rodrigo-matola.jpg
     link: https://www.linkedin.com/in/rodrigomatola/
     link_text: linkedin/rodrigo-matola
-
-    
 
 # SOCIAL MEDIA
 social:
