@@ -23,12 +23,6 @@ navigation:
 # EVENTS
 events:
   abril:
-    - date: 19-04-2018
-      title: Hackers QA-encontro para codarmos junto
-      name:  Todos nós
-      local: Creditas
-      link: https://www.eventbrite.com.br/e/hackers-qa-inscricoes-a-partir-do-dia-14-04-as-23h-registration-44512733785
-
     - date: 26-04-2018
       title: Workshop-Por que testar APIs?
       name: Samuel/Nathanael
@@ -71,7 +65,6 @@ events:
 
 # SPEAKERS
 speakers:
-
   - name: Nathanael Araújo
     image: nathanael-araujo.jpg
     link: https://www.linkedin.com/in/nathanaelaraujo
@@ -184,8 +177,6 @@ team:
     image: rodrigo-matola.jpg
     link: https://www.linkedin.com/in/rodrigomatola/
     link_text: linkedin/rodrigo-matola
-
-    
 
 # SOCIAL MEDIA
 social:
