@@ -16,14 +16,14 @@ title: Palestrantes QA Sampa Meeting
 </div>
 <div class="row">
 {% for speaker in site.data.speakers %}
-  <div class="col m3 s12">
+  <div class="col xl3 l4 s12 qasp-speaker-card">
     <div class="card white grey-text text-darken-4">
       <div class="card-image">
         <a href="{{ speaker.link }}" target="_blank">
           <img src="/assets/img/speakers/{{ speaker.image }}">
         </a>
       </div>
-      <div class="card-content">
+      <div class="card-content valign-wrapper center-align">
         <span class="card-title center"><a class="teal-text" href="{{ speaker.link }}" target="_blank"><h6>{{ speaker.name }}</h6></a></span>
       </div>
     </div>

@@ -88,3 +88,20 @@ footer.page-footer {
 .qasp-form {
   margin-top: 15px;
 }
+
+.qasp-speaker-card .card .card-content {
+  height: 105px;
+}
+
+.qasp-speaker-card .card .card-content .card-title {
+  width: 100%;
+}
+
+.qasp-event-card .card-image img {
+  filter: brightness(50%);
+}
+
+.qasp-event-card.card .card-image .card-title {
+  padding: 5%;
+
+}

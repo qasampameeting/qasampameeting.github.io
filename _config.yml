@@ -22,10 +22,10 @@ navigation:
 # SOCIAL MEDIA
 social:
   meetup: https://www.meetup.com/pt-BR/qasampameeting
-  linkedin: https://www.linkedin.com/company/qasampameeting
   facebook: https://www.facebook.com/qasampameeting
-  youtube: https://www.youtube.com/c/QASampaMeeting
+  linkedin: https://www.linkedin.com/company/qasampameeting
   twitter: https://twitter.com/qasampameeting
   instagram: https://www.instagram.com/qasampameeting
+  youtube: https://www.youtube.com/c/QASampaMeeting
 
 google_analytics: "UA-114034864-1"

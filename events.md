@@ -16,16 +16,32 @@ title: Eventos QA Sampa Meeting
 </nav>
 <div class="row">
 {% for event in month_events[1] %}
-  <div class="col s12 m6 l4">
-    <div class="card white grey-text text-darken-4">
+  <div class="col s12 l6 xl4">
+    <div class="card white grey-text text-darken-4 qasp-event-card">
+      <div class="card-image">
+        <img src="/assets/img/events/thumbs/{{ event.image }}" class="responsive-img">
+        <span class="card-title flow-text"><strong>{{ event.title }}</strong></span>
+      </div>
       <div class="card-content">
-        <span class="card-title"><h6><strong>{{ event.title }}</strong></h6></span>
-        <p>
-          {{ event.date }}
+        <p class="valign-wrapper">
+          <i class="material-icons">person</i>
+          {{ event.speaker[0] }}
         </p>
-        <h7><strong>Palestrante:</strong> {{ event.name }} </h7>
-        <p>
-          <h7><strong>Local:</strong> {{ event.local }} </h7>
+        <p class="valign-wrapper">
+          {% if event.speaker[1] %}
+            <i class="material-icons">person</i>
+            {{ event.speaker[1] }}
+          {% else %}
+            <br>
+          {% endif %}
+        </p>
+        <p class="valign-wrapper">
+          <i class="material-icons">today</i>
+          {{ event.date | replace: "-", "/" }}
+        </p>
+        <p class="valign-wrapper">
+          <i class="material-icons">location_on</i>
+          {{ event.place }}
         </p>
       </div>
       <div class="card-action">

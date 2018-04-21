@@ -2,38 +2,53 @@
 abril:
   - date: 26-04-2018
     title: Workshop-Por que testar APIs?
-    name: Samuel/Nathanael
-    local: Caelum
+    speaker:
+      - Samuel Pereira
+      - Nathanael Araújo
+    place: Caelum
+    image: 26-04-2018.jpg
     link: https://www.eventbrite.com.br/e/por-que-testar-apis-inscricoes-a-partir-do-dia-19-04-as-23h-registration-43291305460
 
 maio:
   - date: 10-05-2018
     title: Workshop-Testes de Performance
-    name: Júlio de Lima
-    local: Caelum
+    speaker:
+      - Júlio de Lima
+    place: Caelum
+    image: 10-05-2018.jpg
     link: https://www.eventbrite.com.br/e/testes-de-performance-inscricoes-a-partir-do-dia-02-05-as-23h-registration-43731000600
 
   - date: 24-05-2018
     title: Workshop-Test Driven Development - TDD
-    name: Camila e Júlia
-    local: Caelum
+    speaker:
+      - Camila Campos
+      - Júlia Birkett
+    place: Caelum
+    image: 24-05-2018.jpg
     link: https://www.eventbrite.com.br/e/test-driven-development-tdd-inscricoes-a-partir-do-dia-17-05-as-23h-registration-43732427869
 
 junho:
   - date: 13-06-2018
     title: Workshop-Por que utilizar BDD?
-    name: Fernando Papito
-    local: Moip
+    speaker:
+      - Fernando Papito
+    place: Moip
+    image: 13-06-2018.jpg
     link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
 
   - date: 27-06-2018
     title: Visual Regression Testing
-    name: Samanta Cicilia
-    local: Moip
+    speaker:
+      - Samanta Cicilia
+    place: Moip
+    image: 27-06-2018.jpg
     link: https://www.eventbrite.com.br/e/automatizando-visual-regression-testing-inscricoes-a-partir-de-18-06-as-23h-registration-45193463867
 
 julho:
-  - date: Data a definir
+  - date: 10-07-2018
     title: Automação com Appium
-    name: Thialison e Darling
-    local: a definir
+    speaker:
+      - Thialison Souza
+      - Darling Cabral
+    image: 10-07-2018.jpg
+    place: a definir
