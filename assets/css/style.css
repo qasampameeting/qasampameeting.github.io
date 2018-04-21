@@ -68,19 +68,19 @@ footer.page-footer {
   text-align: justify;
 }
 
-.sponsors {
+.supporters {
   padding-top: 5px;
   padding-bottom: 20px;
 }
 
-.sponsors-logos {
+.supporters-logos {
   display: flex;
   justify-content: space-around;
   align-content: center;
   flex-wrap: wrap;
 }
 
-.sponsors-logos-vertical {
+.supporters-logos-vertical {
   display: flex;
   flex-direction: column;
 }

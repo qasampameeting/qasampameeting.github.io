@@ -185,7 +185,9 @@ social:
   twitter: https://twitter.com/qasampameeting
   instagram: https://www.instagram.com/qasampameeting
 
-sponsors:
+
+# SUPPORTERS
+supporters:
   thoughtworks: https://www.thoughtworks.com/pt
   campuscode: https://campuscode.com.br
   caelum: https://www.caelum.com.br
