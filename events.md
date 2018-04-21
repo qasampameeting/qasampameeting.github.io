@@ -4,7 +4,7 @@ title: Eventos QA Sampa Meeting
 ---
 
 <div class="row"><div class="col s12"><h1 class="qasp-title">eventos</h1></div></div>
-{% for month_events in site.events %}
+{% for month_events in site.data.events %}
 <nav class="teal">
   <div class="nav-wrapper">
     <div class="row">

@@ -15,7 +15,7 @@ title: Palestrantes QA Sampa Meeting
   </div>
 </div>
 <div class="row">
-{% for speaker in site.speakers %}
+{% for speaker in site.data.speakers %}
   <div class="col m3 s12">
     <div class="card white grey-text text-darken-4">
       <div class="card-image">

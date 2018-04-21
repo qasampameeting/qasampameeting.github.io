@@ -6,11 +6,11 @@ title: QA Sampa Meeting
 <div id="index-banner" class="parallax-container">
   <div class="section no-pad-bot">
     <div class="container">
-      {% assign next_event = site.events.first[1].first %}
+      {% assign next_event = site.data.events.first[1].first %}
       {% assign event_date = next_event.date | split: "-" %}
       <div class="row center">
         <a href="/events" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">
-          Próximo evento: {{ event_date.first }} de {{ site.events.first[0] }} de {{ event_date.last }}
+          Próximo evento: {{ event_date.first }} de {{ site.data.events.first[0] }} de {{ event_date.last }}
         </a>
       </div>
     </div>
@@ -43,7 +43,7 @@ title: QA Sampa Meeting
       <p class="flow-text">Estas serão nossas inspirações para os próximos eventos</p>
       <a href="/speakers" class="waves-effect waves-light btn"><i class="material-icons right">add</i>Saiba mais</a>
     </div>
-    {% for speaker in site.speakers limit: 3 %}
+    {% for speaker in site.data.speakers limit: 3 %}
       <div class="col s2 hide-on-small-only">
         <div class="card">
           <div class="card-image">
