@@ -37,7 +37,7 @@ junho:
     link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
 
   - date: 27-06-2018
-    title: Visual Regression Testing
+    title: Workshop-Visual Regression Testing
     speaker:
       - Samanta Cicilia
     place: Moip
@@ -46,7 +46,7 @@ junho:
 
 julho:
   - date: 10-07-2018
-    title: Automação com Appium
+    title: Workshop-Automação com Appium
     speaker:
       - Thialison Souza
       - Darling Cabral
