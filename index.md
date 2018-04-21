@@ -7,10 +7,10 @@ title: QA Sampa Meeting
   <div class="section no-pad-bot">
     <div class="container">
       {% assign next_event = site.data.events.first[1].first %}
-      {% assign event_date = next_event.date | split: "-" %}
       <div class="row center">
         <a href="/events" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">
-          Próximo evento: {{ event_date.first }} de {{ site.data.events.first[0] }} de {{ event_date.last }}
+          <i class="material-icons left">today</i>
+          Próximo evento: {{ next_event.date | replace: "-", "/" }}
         </a>
       </div>
     </div>
