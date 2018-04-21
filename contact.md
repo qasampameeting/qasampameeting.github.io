@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cotato QA Sampa Meeting
+title: Contato QA Sampa Meeting
 ---
 
 <div class="row"><div class="col s12"><h1 class="qasp-title">contato</h1></div></div>
