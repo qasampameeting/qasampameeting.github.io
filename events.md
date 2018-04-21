@@ -41,7 +41,13 @@ title: Eventos QA Sampa Meeting
         </p>
         <p class="valign-wrapper">
           <i class="material-icons">location_on</i>
-          {{ event.place }}
+          {% if event.place.map_link %}
+            <a href="{{ event.place.map_link }}" target="_blank">
+              {{ event.place.name }}
+            </a>
+          {% else %}
+            {{ event.place.name }}
+          {% endif %}
         </p>
       </div>
       <div class="card-action">

@@ -5,7 +5,9 @@ abril:
     speaker:
       - Samuel Pereira
       - Nathanael Araújo
-    place: Caelum
+    place:
+      name: Caelum
+      map_link: https://goo.gl/maps/oHG1CCARKDN2
     image: 26-04-2018.jpg
     link: https://www.eventbrite.com.br/e/por-que-testar-apis-inscricoes-a-partir-do-dia-19-04-as-23h-registration-43291305460
 
@@ -14,7 +16,9 @@ maio:
     title: Workshop-Testes de Performance
     speaker:
       - Júlio de Lima
-    place: Caelum
+    place:
+      name: Caelum
+      map_link: https://goo.gl/maps/oHG1CCARKDN2
     image: 10-05-2018.jpg
     link: https://www.eventbrite.com.br/e/testes-de-performance-inscricoes-a-partir-do-dia-02-05-as-23h-registration-43731000600
 
@@ -23,7 +27,9 @@ maio:
     speaker:
       - Camila Campos
       - Júlia Birkett
-    place: Caelum
+    place:
+      name: Caelum
+      map_link: https://goo.gl/maps/oHG1CCARKDN2
     image: 24-05-2018.jpg
     link: https://www.eventbrite.com.br/e/test-driven-development-tdd-inscricoes-a-partir-do-dia-17-05-as-23h-registration-43732427869
 
@@ -32,7 +38,9 @@ junho:
     title: Workshop-Por que utilizar BDD?
     speaker:
       - Fernando Papito
-    place: Moip
+    place:
+      name: Moip
+      map_link: https://goo.gl/maps/SJzexvmnEj72
     image: 13-06-2018.jpg
     link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
 
@@ -40,7 +48,9 @@ junho:
     title: Workshop-Visual Regression Testing
     speaker:
       - Samanta Cicilia
-    place: Moip
+    place:
+      name: Moip
+      map_link: https://goo.gl/maps/SJzexvmnEj72
     image: 27-06-2018.jpg
     link: https://www.eventbrite.com.br/e/automatizando-visual-regression-testing-inscricoes-a-partir-de-18-06-as-23h-registration-45193463867
 
@@ -51,4 +61,6 @@ julho:
       - Thialison Souza
       - Darling Cabral
     image: 10-07-2018.jpg
-    place: a definir
+    place:
+      name: a definir
+      map_link:
