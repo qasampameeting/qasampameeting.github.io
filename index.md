@@ -48,11 +48,11 @@ title: QA Sampa Meeting
         <div class="card">
           <div class="card-image">
             <a href="/speakers">
-              <img src="/assets/img/speakers/{{ speaker.image }}">
+              <img src="/assets/img/speakers/{{ speaker[1].image }}">
             </a>
           </div>
           <div class="card-content center">
-            <a href="/speakers" class="teal-text">{{ speaker.name }}</a>
+            <a href="/speakers" class="teal-text">{{ speaker[1].name }}</a>
           </div>
         </div>
       </div>

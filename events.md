@@ -24,20 +24,24 @@ title: Eventos QA Sampa Meeting
       </div>
       <div class="card-content">
         <p class="valign-wrapper">
+          <i class="material-icons">today</i>
+          {{ event.date | replace: "-", "/" }}
+        </p>
+        <p class="valign-wrapper">
           <i class="material-icons">person</i>
-          {{ event.speaker[0] }}
+          <a href="{{ site.data.speakers | map: event.speaker[0] | map: "link" }}" target="_blank">
+            {{ site.data.speakers | map: event.speaker[0] | map: "name" }}
+          </a>
         </p>
         <p class="valign-wrapper">
           {% if event.speaker[1] %}
             <i class="material-icons">person</i>
-            {{ event.speaker[1] }}
+            <a href="{{ site.data.speakers | map: event.speaker[1] | map: "link" }}" target="_blank">
+            {{ site.data.speakers | map: event.speaker[1] | map: "name" }}
+            </a>
           {% else %}
             <br>
           {% endif %}
-        </p>
-        <p class="valign-wrapper">
-          <i class="material-icons">today</i>
-          {{ event.date | replace: "-", "/" }}
         </p>
         <p class="valign-wrapper">
           <i class="material-icons">location_on</i>

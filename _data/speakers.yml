@@ -1,56 +1,70 @@
 # SPEAKERS
-- name: Nathanael Araújo
+nathanaelaraujo:
+  name: Nathanael Araújo
   image: nathanael-araujo.jpg
   link: https://www.linkedin.com/in/nathanaelaraujo
 
-- name: Samuel Pereira
+samuelpereira:
+  name: Samuel Pereira
   image: samuel-pereira.jpg
   link: https://www.linkedin.com/in/samuel-pereira-68327b23
 
-- name: Júlio de Lima
+juliodelima:
+  name: Júlio de Lima
   image: julio-lima.jpg
   link: https://www.linkedin.com/in/juliodelimas/
 
-- name: Camila Campos
+camilacampos:
+  name: Camila Campos
   image: camila-campos.jpg
   link: https://www.linkedin.com/in/camilacamposramos/
 
-- name: Júlia Birkett
+juliabirkett:
+  name: Júlia Birkett
   image: julia-birkett.jpg
   link: https://www.linkedin.com/in/birkettjulia/
 
-- name: Fernando Papito
+fernandopapito:
+  name: Fernando Papito
   image: fernando-papito.jpg
   link: https://www.linkedin.com/in/papitoio/
 
-- name: Samanta Cicilia
+samantacicilia:
+  name: Samanta Cicilia
   image: samanta-cicilia.jpg
   link: https://www.linkedin.com/in/samantacici/
 
-- name: Thialison Souza
+thialisonsouza:
+  name: Thialison Souza
   image: thialison-souza.jpg
   link: https://www.linkedin.com/in/thialisontester/
 
-- name: Darling Cabral
+darlingcabral:
+  name: Darling Cabral
   image: darling-cabral.jpg
   link: https://www.linkedin.com/in/darling-cabral-6b709a49/
 
-- name: Débora Fernandes
+deborafernandes:
+  name: Débora Fernandes
   image: debora-fernandes.jpg
   link: https://www.linkedin.com/in/debborafernandess/
 
-- name: Alan Gularte
+alangularte:
+  name: Alan Gularte
   image: alan-gularte.jpg
   link: https://www.linkedin.com/in/alancafrunigularte/
 
-- name: Rodrigo Matola
+rodrigomatola:
+  name: Rodrigo Matola
   image: rodrigo-matola.jpg
   link: https://www.linkedin.com/in/rodrigomatola/
 
-- name: Karoline Leite
+karolineleite:
+  name: Karoline Leite
   image: karoline-leite.jpg
   link: https://www.linkedin.com/in/karolxavierleite
 
-- name: Wellington Avelino
+wellingtonavelino:
+  name: Wellington Avelino
   image: wellington-avelino.jpg
   link: https://www.linkedin.com/in/wellington-avelino

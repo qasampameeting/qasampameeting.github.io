@@ -3,8 +3,8 @@ abril:
   - date: 26-04-2018
     title: Workshop-Por que testar APIs?
     speaker:
-      - Samuel Pereira
-      - Nathanael Araújo
+      - samuelpereira
+      - nathanaelaraujo
     place:
       name: Caelum
       map_link: https://goo.gl/maps/oHG1CCARKDN2
@@ -15,7 +15,7 @@ maio:
   - date: 10-05-2018
     title: Workshop-Testes de Performance
     speaker:
-      - Júlio de Lima
+      - juliodelima
     place:
       name: Caelum
       map_link: https://goo.gl/maps/oHG1CCARKDN2
@@ -25,8 +25,8 @@ maio:
   - date: 24-05-2018
     title: Workshop-Test Driven Development - TDD
     speaker:
-      - Camila Campos
-      - Júlia Birkett
+      - camilacampos
+      - juliabirkett
     place:
       name: Caelum
       map_link: https://goo.gl/maps/oHG1CCARKDN2
@@ -37,7 +37,7 @@ junho:
   - date: 13-06-2018
     title: Workshop-Por que utilizar BDD?
     speaker:
-      - Fernando Papito
+      - fernandopapito
     place:
       name: Moip
       map_link: https://goo.gl/maps/SJzexvmnEj72
@@ -47,7 +47,7 @@ junho:
   - date: 27-06-2018
     title: Workshop-Visual Regression Testing
     speaker:
-      - Samanta Cicilia
+      - samantacicilia
     place:
       name: Moip
       map_link: https://goo.gl/maps/SJzexvmnEj72
@@ -58,8 +58,8 @@ julho:
   - date: 10-07-2018
     title: Workshop-Automação com Appium
     speaker:
-      - Thialison Souza
-      - Darling Cabral
+      - thialisonsouza
+      - darlingcabral
     image: 10-07-2018.jpg
     place:
       name: a definir
