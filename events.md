@@ -57,7 +57,7 @@ title: Eventos QA Sampa Meeting
       <div class="card-action">
         <a href="{{ event.link }}" {% if event.link %}target="_blank"{% endif %} class="waves-effect waves-light btn">
           <i class="material-icons right">lightbulb_outline</i>
-          {% if event.link %}inscreva-se aqui{% else %}inscrições em breve{% endif %}
+          {% if event.link %}inscreva-se aqui{% else %}em breve{% endif %}
         </a>
       </div>
     </div>

@@ -103,5 +103,14 @@ footer.page-footer {
 
 .qasp-event-card.card .card-image .card-title {
   padding: 5%;
+}
 
+.qasp-home-speaker-card.card .card-content {
+  padding: 5%;
+  height: 92px;
+}
+
+.qasp-home-speaker-card.card .card-content a {
+  width: 100%;
+  text-align: center;
 }

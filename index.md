@@ -45,13 +45,13 @@ title: QA Sampa Meeting
     </div>
     {% for speaker in site.data.speakers limit: 3 %}
       <div class="col s2 hide-on-small-only">
-        <div class="card">
+        <div class="qasp-home-speaker-card card">
           <div class="card-image">
             <a href="/speakers">
               <img src="/assets/img/speakers/{{ speaker[1].image }}">
             </a>
           </div>
-          <div class="card-content center">
+          <div class="card-content valign-wrapper">
             <a href="/speakers" class="teal-text">{{ speaker[1].name }}</a>
           </div>
         </div>
