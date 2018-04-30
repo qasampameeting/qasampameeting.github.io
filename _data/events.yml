@@ -1,16 +1,4 @@
 # EVENTS
-abril:
-  - date: 26-04-2018
-    title: Workshop-Por que testar APIs?
-    speaker:
-      - samuelpereira
-      - nathanaelaraujo
-    place:
-      name: Caelum
-      map_link: https://goo.gl/maps/oHG1CCARKDN2
-    image: 26-04-2018.jpg
-    link: https://www.eventbrite.com.br/e/por-que-testar-apis-inscricoes-a-partir-do-dia-19-04-as-23h-registration-43291305460
-
 maio:
   - date: 10-05-2018
     title: Workshop-Testes de Performance

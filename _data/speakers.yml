@@ -1,14 +1,4 @@
 # SPEAKERS
-nathanaelaraujo:
-  name: Nathanael Araújo
-  image: nathanael-araujo.jpg
-  link: https://www.linkedin.com/in/nathanaelaraujo
-
-samuelpereira:
-  name: Samuel Pereira
-  image: samuel-pereira.jpg
-  link: https://www.linkedin.com/in/samuel-pereira-68327b23
-
 juliodelima:
   name: Júlio de Lima
   image: julio-lima.jpg
@@ -43,6 +33,16 @@ darlingcabral:
   name: Darling Cabral
   image: darling-cabral.jpg
   link: https://www.linkedin.com/in/darling-cabral-6b709a49/
+
+nathanaelaraujo:
+  name: Nathanael Araújo
+  image: nathanael-araujo.jpg
+  link: https://www.linkedin.com/in/nathanaelaraujo
+
+samuelpereira:
+  name: Samuel Pereira
+  image: samuel-pereira.jpg
+  link: https://www.linkedin.com/in/samuel-pereira-68327b23
 
 deborafernandes:
   name: Débora Fernandes
