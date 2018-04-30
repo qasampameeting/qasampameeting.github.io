@@ -47,8 +47,9 @@ julho:
     title: Workshop-Automação com Appium
     speaker:
       - thialisonsouza
-      - darlingcabral
-    image: 10-07-2018.jpg
+      - darlingcabral 
     place:
-      name: a definir
-      map_link:
+      name: ThoughtWorks
+      map_link: https://www.google.com/maps/place/ThoughtWorks/@-23.556659,-46.6634809,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59cd6d0340c1:0xb82b9c6071314983!8m2!3d-23.5566639!4d-46.6612922
+    image: 10-07-2018.jpg
+    link: https://www.eventbrite.com.br/e/do-inicio-ao-basico-com-appium-inscricoes-a-partir-de-03-07-as-23h-registration-45404303494
