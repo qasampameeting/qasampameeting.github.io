@@ -1,7 +1,7 @@
 # EVENTS
 maio:
   - date: 10-05-2018
-    title: Workshop-Testes de Performance
+    title: "[Workshop] Testes de Performance"
     speaker:
       - juliodelima
     place:
@@ -11,7 +11,7 @@ maio:
     link: https://www.eventbrite.com.br/e/testes-de-performance-inscricoes-a-partir-do-dia-02-05-as-23h-registration-43731000600
 
   - date: 24-05-2018
-    title: Workshop-Test Driven Development - TDD
+    title: "[Workshop] Test Driven Development - TDD"
     speaker:
       - camilacampos
       - juliabirkett
@@ -23,7 +23,7 @@ maio:
 
 junho:
   - date: 13-06-2018
-    title: Workshop-Por que utilizar BDD?
+    title: "[Workshop] Por que utilizar BDD?"
     speaker:
       - fernandopapito
     place:
@@ -33,7 +33,7 @@ junho:
     link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
 
   - date: 27-06-2018
-    title: Workshop-Visual Regression Testing
+    title: "[Workshop] Visual Regression Testing"
     speaker:
       - samantacicilia
     place:
@@ -44,10 +44,10 @@ junho:
 
 julho:
   - date: 10-07-2018
-    title: Workshop-Automação com Appium
+    title: "[Workshop] Automação com Appium"
     speaker:
       - thialisonsouza
-      - darlingcabral 
+      - darlingcabral
     place:
       name: ThoughtWorks
       map_link: https://www.google.com/maps/place/ThoughtWorks/@-23.556659,-46.6634809,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59cd6d0340c1:0xb82b9c6071314983!8m2!3d-23.5566639!4d-46.6612922
