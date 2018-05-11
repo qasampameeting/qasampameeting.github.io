@@ -1,15 +1,5 @@
 # EVENTS
 maio:
-  - date: 10-05-2018
-    title: "[Workshop] Testes de Performance"
-    speaker:
-      - juliodelima
-    place:
-      name: Caelum
-      map_link: https://goo.gl/maps/oHG1CCARKDN2
-    image: 10-05-2018.jpg
-    link: https://www.eventbrite.com.br/e/testes-de-performance-inscricoes-a-partir-do-dia-02-05-as-23h-registration-43731000600
-
   - date: 24-05-2018
     title: "[Workshop] Test Driven Development - TDD"
     speaker:
