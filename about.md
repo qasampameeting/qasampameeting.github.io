@@ -25,7 +25,7 @@ title: Sobre QA Sampa Meeting
     <div class="col s12 valign-wrapper center-align supporters-logos">
       {% for supporter in site.data.supporters %}
           <a href="{{ supporter[1] }}" target="_blank">
-            <img style="max-height:64px;" src="/assets/img/supporters/{{ supporter[0] }}.png">
+            <img style="max-height: 120px;" src="/assets/img/supporters/{{ supporter[0] }}.png">
           </a>
       {% endfor %}
     </div>
@@ -34,7 +34,7 @@ title: Sobre QA Sampa Meeting
     <div class="col s12 valign-wrapper center-align supporters-logos-vertical">
       {% for supporter in site.data.supporters %}
           <a href="{{ supporter[1] }}" target="_blank">
-            <img style="max-height:64px;" src="/assets/img/supporters/{{ supporter[0] }}.png">
+            <img style="max-height: 200px;" src="/assets/img/supporters/{{ supporter[0] }}.png">
           </a>
       {% endfor %}
     </div>
