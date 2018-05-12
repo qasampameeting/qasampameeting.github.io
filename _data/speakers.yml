@@ -1,9 +1,4 @@
 # SPEAKERS
-juliodelima:
-  name: Júlio de Lima
-  image: julio-lima.jpg
-  link: https://www.linkedin.com/in/juliodelimas/
-
 camilacampos:
   name: Camila Campos
   image: camila-campos.jpg
@@ -14,15 +9,15 @@ juliabirkett:
   image: julia-birkett.jpg
   link: https://www.linkedin.com/in/birkettjulia/
 
-fernandopapito:
-  name: Fernando Papito
-  image: fernando-papito.jpg
-  link: https://www.linkedin.com/in/papitoio/
-
 samantacicilia:
   name: Samanta Cicilia
   image: samanta-cicilia.jpg
   link: https://www.linkedin.com/in/samantacici/
+
+fernandopapito:
+  name: Fernando Papito
+  image: fernando-papito.jpg
+  link: https://www.linkedin.com/in/papitoio/
 
 thialisonsouza:
   name: Thialison Souza
@@ -33,6 +28,11 @@ darlingcabral:
   name: Darling Cabral
   image: darling-cabral.jpg
   link: https://www.linkedin.com/in/darling-cabral-6b709a49/
+
+juliodelima:
+  name: Júlio de Lima
+  image: julio-lima.jpg
+  link: https://www.linkedin.com/in/juliodelimas/
 
 nathanaelaraujo:
   name: Nathanael Araújo
