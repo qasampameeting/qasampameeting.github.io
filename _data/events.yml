@@ -1,5 +1,13 @@
 # EVENTS
 maio:
+  - date: 18-05-2018
+    title: "[Dojo] automação de testes com Cucumber + Ruby"
+    place:
+      name: Fcamara
+      map_link: https://goo.gl/maps/PyHSJ8oNAyv
+    image: 18-05-2018.jpg
+    link: https://www.eventbrite.com.br/e/dojo-automacao-de-testes-com-cucumber-ruby-inscricoes-a-partir-de-14-05-as-23h-tickets-45959183154
+
   - date: 24-05-2018
     title: "[Workshop] Test Driven Development - TDD"
     speaker:
