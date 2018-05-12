@@ -7,7 +7,7 @@ maio:
       map_link: https://goo.gl/maps/PyHSJ8oNAyv
     image: 18-05-2018.jpg
     link: https://www.eventbrite.com.br/e/dojo-automacao-de-testes-com-cucumber-ruby-18-05-tickets-45959183154
-  
+
   - date: 24-05-2018
     title: "[Workshop] Test Driven Development - TDD"
     speaker:
@@ -18,7 +18,7 @@ maio:
       map_link: https://goo.gl/maps/oHG1CCARKDN2
     image: 24-05-2018.jpg
     link: https://www.eventbrite.com.br/e/test-driven-development-tdd-inscricoes-a-partir-do-dia-17-05-as-23h-registration-43732427869
-  
+
 junho:
   - date: 08-06-2018
     title: "[Workshop] Visual Regression Testing"
