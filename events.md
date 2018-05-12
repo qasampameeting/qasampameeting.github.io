@@ -29,9 +29,15 @@ title: Eventos QA Sampa Meeting
         </p>
         <p class="valign-wrapper">
           <i class="material-icons">person</i>
-          <a href="{{ site.data.speakers | map: event.speaker[0] | map: "link" }}" target="_blank">
-            {{ site.data.speakers | map: event.speaker[0] | map: "name" }}
-          </a>
+          {% if event.speaker[0] %}
+            <a href="{{ site.data.speakers | map: event.speaker[0] | map: "link" }}" target="_blank">
+              {{ site.data.speakers | map: event.speaker[0] | map: "name" }}
+            </a>
+          {% else %}
+            <a href="{{ site.url }}" target="_blank">
+              QA Sampa Meeting
+            </a>
+          {% endif %}
         </p>
         <p class="valign-wrapper">
           {% if event.speaker[1] %}

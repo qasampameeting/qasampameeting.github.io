@@ -33,12 +33,30 @@ junho:
   - date: 13-06-2018
     title: "[Workshop] Por que utilizar BDD?"
     speaker:
+      - samantacicilia
+    place:
+      name: Moip
+      map_link: https://goo.gl/maps/SJzexvmnEj72
+    image: 08-06-2018.jpg
+    link: https://www.eventbrite.com.br/e/automatizando-visual-regression-testing-inscricoes-a-partir-de-01-06-as-23h-registration-45193463867
+
+  - date: 13-06-2018
+    title: "[Workshop] Por que utilizar BDD?"
+    speaker:
       - fernandopapito
     place:
       name: Moip
       map_link: https://goo.gl/maps/SJzexvmnEj72
     image: 13-06-2018.jpg
     link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
+
+  - date: 21-06-2018
+    title: "[Dojo]"
+    place:
+      name: Creditas
+      map_link: https://goo.gl/maps/eiAbN1kagv92
+    image: 18-05-2018.jpg
+    link:
 
 julho:
   - date: 10-07-2018
@@ -51,3 +69,15 @@ julho:
       map_link: https://www.google.com/maps/place/ThoughtWorks/@-23.556659,-46.6634809,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59cd6d0340c1:0xb82b9c6071314983!8m2!3d-23.5566639!4d-46.6612922
     image: 10-07-2018.jpg
     link: https://www.eventbrite.com.br/e/do-inicio-ao-basico-com-appium-inscricoes-a-partir-de-03-07-as-23h-registration-45404303494
+
+agosto:
+  - date: 15-08-2018
+    title: "[Workshop] Scrum Foudantions"
+    speaker:
+      - andrecoelho
+      - rodrigosilva
+    place:
+      name: Concrete
+      map_link: https://goo.gl/maps/cqoRNhAfcJx
+    image: 15-08-2018.jpg
+    link: https://www.eventbrite.com.br/e/scrum-foudations-inscricoes-a-partir-de-08-08-as-23h-registration-46035311857

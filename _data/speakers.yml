@@ -29,6 +29,19 @@ darlingcabral:
   image: darling-cabral.jpg
   link: https://www.linkedin.com/in/darling-cabral-6b709a49/
 
+<<<<<<< HEAD
+=======
+andrecoelho:
+  name: André Coelho
+  image: andre-coelho.jpg
+  link: https://www.linkedin.com/in/andrebrait/
+
+rodrigosilva:
+  name: Rodrigo Silva
+  image: rodrigo-silva.jpg
+  link: https://www.linkedin.com/in/rodrigosilvap/
+
+>>>>>>> 4f85d3ad5157b9544b385ab02e8593d7ef9ebc9e
 juliodelima:
   name: Júlio de Lima
   image: julio-lima.jpg
