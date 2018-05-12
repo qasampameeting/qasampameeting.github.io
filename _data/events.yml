@@ -46,7 +46,7 @@ junho:
       name: Creditas
       map_link: https://goo.gl/maps/eiAbN1kagv92
     image: 18-05-2018.jpg
-    link: 
+    link:
 
 julho:
   - date: 10-07-2018
@@ -60,8 +60,7 @@ julho:
     image: 10-07-2018.jpg
     link: https://www.eventbrite.com.br/e/do-inicio-ao-basico-com-appium-inscricoes-a-partir-de-03-07-as-23h-registration-45404303494
 
-  
-agosto: 
+agosto:
   - date: 15-08-2018
     title: "[Workshop] Scrum Foudantions"
     speaker:
