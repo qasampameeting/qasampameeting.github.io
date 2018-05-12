@@ -12,6 +12,16 @@ maio:
     link: https://www.eventbrite.com.br/e/test-driven-development-tdd-inscricoes-a-partir-do-dia-17-05-as-23h-registration-43732427869
 
 junho:
+  - date: 08-06-2018
+    title: "[Workshop] Visual Regression Testing"
+    speaker:
+      - samantacicilia
+    place:
+      name: Moip
+      map_link: https://goo.gl/maps/SJzexvmnEj72
+    image: 08-06-2018.jpg
+    link: https://www.eventbrite.com.br/e/automatizando-visual-regression-testing-inscricoes-a-partir-de-01-06-as-23h-registration-45193463867
+
   - date: 13-06-2018
     title: "[Workshop] Por que utilizar BDD?"
     speaker:
@@ -21,16 +31,6 @@ junho:
       map_link: https://goo.gl/maps/SJzexvmnEj72
     image: 13-06-2018.jpg
     link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
-
-  - date: 27-06-2018
-    title: "[Workshop] Visual Regression Testing"
-    speaker:
-      - samantacicilia
-    place:
-      name: Moip
-      map_link: https://goo.gl/maps/SJzexvmnEj72
-    image: 27-06-2018.jpg
-    link: https://www.eventbrite.com.br/e/automatizando-visual-regression-testing-inscricoes-a-partir-de-18-06-as-23h-registration-45193463867
 
 julho:
   - date: 10-07-2018
