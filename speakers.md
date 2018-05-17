@@ -8,7 +8,7 @@ title: Palestrantes QA Sampa Meeting
 <div class="row">
   <div class="col s12 center">
     <h5>Quer ser palestrante também?</h5>
-    <a href="https://qasampameeting.typeform.com/to/Qxo6rT" target="_blank" class="waves-effect waves-light btn">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEjY2cHsVzCYVOzAxFKceIFnAYYoqwCSH-SHPCiKmQ1tcbMQ/viewform" target="_blank" class="waves-effect waves-light btn">
       <i class="material-icons right">lightbulb_outline</i>
       Inscreva-se aqui
     </a>
