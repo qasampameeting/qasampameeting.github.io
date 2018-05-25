@@ -1,14 +1,4 @@
 # SPEAKERS
-camilacampos:
-  name: Camila Campos
-  image: camila-campos.jpg
-  link: https://www.linkedin.com/in/camilacamposramos/
-
-juliabirkett:
-  name: Júlia Birkett
-  image: julia-birkett.jpg
-  link: https://www.linkedin.com/in/birkettjulia/
-
 samantacicilia:
   name: Samanta Cicilia
   image: samanta-cicilia.jpg
@@ -38,6 +28,16 @@ rodrigosilva:
   name: Rodrigo Silva
   image: rodrigo-silva.jpg
   link: https://www.linkedin.com/in/rodrigosilvap/
+
+camilacampos:
+  name: Camila Campos
+  image: camila-campos.jpg
+  link: https://www.linkedin.com/in/camilacamposramos/
+
+juliabirkett:
+  name: Júlia Birkett
+  image: julia-birkett.jpg
+  link: https://www.linkedin.com/in/birkettjulia/
 
 juliodelima:
   name: Júlio de Lima

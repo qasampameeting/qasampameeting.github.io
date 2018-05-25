@@ -1,16 +1,4 @@
 # EVENTS
-maio:
-  - date: 24-05-2018
-    title: "Pré-inscrição [Workshop Avançado] - TDD com Ruby"
-    speaker:
-      - camilacampos
-      - juliabirkett
-    place:
-      name: Caelum
-      map_link: https://goo.gl/maps/oHG1CCARKDN2
-    image: 24-05-2018.jpg
-    link: https://docs.google.com/forms/d/e/1FAIpQLSckENDOwVmO-kVUh3fGbvp0V6bxGXAMpMZ-HCaav-oU1SJ_Kw/viewform
-
 junho:
   - date: 08-06-2018
     title: "[Workshop] Visual Regression Testing"
