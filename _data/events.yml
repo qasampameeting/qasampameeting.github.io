@@ -21,12 +21,22 @@ junho:
     link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
 
   - date: 21-06-2018
+    title: "[Workshop] Porque todo QA deveria saber testes de API ?"
+    speaker:
+      - fredericomoreira
+    place:
+      name: Bionexo
+      map_link: https://goo.gl/maps/A22Nk3Y326k
+    image: 21-06-2018.jpg
+    link: https://www.eventbrite.com.br/e/workshop-porque-todo-qa-deveria-saber-testes-de-api-inscricoes-14-06-as-23h-registration-46508420939
+
+  - date: 28-06-2018
     title: "[Dojo]"
     place:
-      name: Creditas
-      map_link: https://goo.gl/maps/eiAbN1kagv92
+      name: Nimbi
+      map_link: https://goo.gl/maps/srirjAjgRDG2
     image: 18-05-2018.jpg
-    link: https://www.eventbrite.com.br/e/dojo-tema-a-definir-inscricoes-14-06-as-23h-tickets-46035684973
+    link: https://www.eventbrite.com.br/e/dojo-tema-a-definir-inscricoes-21-06-as-9h-tickets-46035684973
 
 julho:
   - date: 10-07-2018
@@ -40,6 +50,24 @@ julho:
     image: 10-07-2018.jpg
     link: https://www.eventbrite.com.br/e/do-inicio-ao-basico-com-appium-inscricoes-a-partir-de-03-07-as-23h-registration-45404303494
 
+  - date: 19-07-2018
+    title: "[Dojo]"
+    place:
+      name: Netshoes
+      map_link: https://goo.gl/maps/WwwjZqgDJUk
+    image: 18-05-2018.jpg
+    link: https://www.eventbrite.com.br/e/dojo-tema-a-definir-inscricoes-12-07-as-9h-tickets-46508385834
+
+  - date: 23-07-2018
+    title: "[Workshop] Integração Contínua com Jenkins"
+    speaker:
+      - danielavieira
+    place:
+      name: Digital House
+      map_link: https://goo.gl/maps/rzYhjfxZYx92
+    image: 23-07-2018.jpg
+    link: https://www.eventbrite.com.br/e/workshop-integracao-continua-com-jenkins-inscricoes-16-07-as-23h-registration-46509035778
+
 agosto:
   - date: 15-08-2018
     title: "[Workshop] Scrum Foudantions"
@@ -51,3 +79,25 @@ agosto:
       map_link: https://goo.gl/maps/cqoRNhAfcJx
     image: 15-08-2018.jpg
     link: https://www.eventbrite.com.br/e/scrum-foudations-inscricoes-a-partir-de-08-08-as-23h-registration-46035311857
+  
+  - date: 28-08-2018
+    title: "[Workshop] Fundamentos de Docker "
+    speaker:
+      - andersonvasconcelos
+      - danilocosta
+    place:
+      name: Bionexo
+      map_link: https://goo.gl/maps/A22Nk3Y326k
+    image: 28-08-2018.jpg
+    link: https://www.eventbrite.com.br/e/workshop-fundamentos-de-docker-inscricoes-a-partir-de-21-08-as-23h-registration-46509213309
+ 
+setembro:
+  - date: 04-09-2018
+    title: "[Workshop] Testando com protractor "
+    speaker:
+      - cassioalves
+    place:
+      name: Nimbi
+      map_link: https://goo.gl/maps/srirjAjgRDG2
+    image: 04-09-2018.jpg
+    link: https://www.eventbrite.com.br/e/workshop-testando-com-protractor-inscricoes-a-partir-de-28-08-as-23h-registration-46509459044
