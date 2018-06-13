@@ -1,15 +1,5 @@
 # EVENTS
 junho:
-  - date: 13-06-2018
-    title: "[Workshop] Por que utilizar BDD?"
-    speaker:
-      - fernandopapito
-    place:
-      name: Moip
-      map_link: https://goo.gl/maps/SJzexvmnEj72
-    image: 13-06-2018.jpg
-    link: https://www.eventbrite.com.br/e/por-que-utilizar-bdd-inscricoes-a-partir-do-dia-06-06-as-23h-registration-43291769849
-
   - date: 21-06-2018
     title: "[Workshop] Porque todo QA deveria saber testes de API ?"
     speaker:

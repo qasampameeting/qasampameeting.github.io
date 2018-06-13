@@ -1,13 +1,4 @@
 # SPEAKERS
-samantacicilia:
-  name: Samanta Cicilia
-  image: samanta-cicilia.jpg
-  link: https://www.linkedin.com/in/samantacici/
-
-fernandopapito:
-  name: Fernando Papito
-  image: fernando-papito.jpg
-  link: https://www.linkedin.com/in/papitoio/
 
 fredericomoreira:
   name: Frederico Moreira
@@ -53,6 +44,11 @@ cassioalves:
   name: Cássio Alves
   image: cassio-alves.jpg
   link: https://www.linkedin.com/in/cassiocafs/
+
+samantacicilia:
+  name: Samanta Cicilia
+  image: samanta-cicilia.jpg
+  link: https://www.linkedin.com/in/samantacici/
 
 camilacampos:
   name: Camila Campos
