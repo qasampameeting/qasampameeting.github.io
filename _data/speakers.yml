@@ -1,10 +1,5 @@
 # SPEAKERS
 
-fredericomoreira:
-  name: Frederico Moreira
-  image: frederico-moreira.jpg
-  link: https://www.linkedin.com/in/fredcmoreira/
-
 thialisonsouza:
   name: Thialison Souza
   image: thialison-souza.jpg
@@ -44,6 +39,13 @@ cassioalves:
   name: Cássio Alves
   image: cassio-alves.jpg
   link: https://www.linkedin.com/in/cassiocafs/
+
+#####
+
+fredericomoreira:
+  name: Frederico Moreira
+  image: frederico-moreira.jpg
+  link: https://www.linkedin.com/in/fredcmoreira/
 
 samantacicilia:
   name: Samanta Cicilia
