@@ -1,15 +1,5 @@
 # EVENTS
 junho:
-  - date: 21-06-2018
-    title: "[Workshop] Porque todo QA deveria saber testes de API ?"
-    speaker:
-      - fredericomoreira
-    place:
-      name: Bionexo
-      map_link: https://goo.gl/maps/A22Nk3Y326k
-    image: 21-06-2018.jpg
-    link: https://www.eventbrite.com.br/e/workshop-porque-todo-qa-deveria-saber-testes-de-api-inscricoes-14-06-as-23h-registration-46508420939
-
   - date: 28-06-2018
     title: "[Dojo] Automação de Testes de Serviço com Ruby"
     place:
