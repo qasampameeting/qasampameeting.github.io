@@ -18,6 +18,9 @@ navigation:
    url: /team
  - title: contato
    url: /contact
+ - title: blog
+   url: 'https://medium.com/qa-sampa-meeting'
+   
 
 # SOCIAL MEDIA
 social:
