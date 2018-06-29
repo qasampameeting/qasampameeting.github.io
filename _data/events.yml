@@ -1,13 +1,4 @@
 # EVENTS
-junho:
-  - date: 28-06-2018
-    title: "[Dojo] Automação de Testes de Serviço com Ruby"
-    place:
-      name: Nimbi
-      map_link: https://goo.gl/maps/srirjAjgRDG2
-    image: 18-05-2018.jpg
-    link: https://www.eventbrite.com.br/e/dojo-tema-a-definir-inscricoes-21-06-as-9h-tickets-46035684973
-
 julho:
   - date: 12-07-2018
     title: "[Workshop] Automação com Appium"
