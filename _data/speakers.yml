@@ -1,15 +1,5 @@
 # SPEAKERS
 
-thialisonsouza:
-  name: Thialison Souza
-  image: thialison-souza.jpg
-  link: https://www.linkedin.com/in/thialisontester/
-
-darlingcabral:
-  name: Darling Cabral
-  image: darling-cabral.jpg
-  link: https://www.linkedin.com/in/darling-cabral-6b709a49/
-
 danielavieira:
   name: Daniela Vieira
   image: daniela-viera.jpg
@@ -42,6 +32,16 @@ cassioalves:
 
 ##### PASSADOS #####
 
+thialisonsouza:
+  name: Thialison Souza
+  image: thialison-souza.jpg
+  link: https://www.linkedin.com/in/thialisontester/
+
+darlingcabral:
+  name: Darling Cabral
+  image: darling-cabral.jpg
+  link: https://www.linkedin.com/in/darling-cabral-6b709a49/
+  
 fredericomoreira:
   name: Frederico Moreira
   image: frederico-moreira.jpg
