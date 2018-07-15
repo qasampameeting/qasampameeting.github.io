@@ -1,15 +1,5 @@
 # EVENTS
 julho:
-  - date: 23-07-2018
-    title: "[Workshop] Integração Contínua com Jenkins"
-    speaker:
-      - danielavieira
-    place:
-      name: Digital House
-      map_link: https://goo.gl/maps/rzYhjfxZYx92
-    image: 23-07-2018.jpg
-    link: https://www.eventbrite.com.br/e/workshop-integracao-continua-com-jenkins-inscricoes-16-07-as-23h-registration-46509035778
-
   - date: 31-07-2018
     title: "[Dojo]"
     place:
@@ -51,3 +41,13 @@ setembro:
       map_link: https://goo.gl/maps/srirjAjgRDG2
     image: 04-09-2018.jpg
     link: https://www.eventbrite.com.br/e/workshop-testando-com-protractor-inscricoes-a-partir-de-28-08-as-23h-registration-46509459044
+
+  # - date: 23-07-2018
+  #   title: "[Workshop] Integração Contínua com Jenkins"
+  #   speaker:
+  #     - danielavieira
+  #   place:
+  #     name: Digital House
+  #     map_link: https://goo.gl/maps/rzYhjfxZYx92
+  #   image: 23-07-2018.jpg
+  #   link: https://www.eventbrite.com.br/e/workshop-integracao-continua-com-jenkins-inscricoes-16-07-as-23h-registration-46509035778

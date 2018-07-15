@@ -1,10 +1,5 @@
 # SPEAKERS
 
-danielavieira:
-  name: Daniela Vieira
-  image: daniela-viera.jpg
-  link: https://www.linkedin.com/in/daniela-vieira-4680aa9/
-
 andrecoelho:
   name: André Coelho
   image: andre-coelho.jpg
@@ -101,3 +96,8 @@ wellingtonavelino:
   name: Wellington Avelino
   image: wellington-avelino.jpg
   link: https://www.linkedin.com/in/wellington-avelino
+
+# danielavieira:
+#   name: Daniela Vieira
+#   image: daniela-viera.jpg
+#   link: https://www.linkedin.com/in/daniela-vieira-4680aa9/
