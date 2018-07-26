@@ -25,7 +25,7 @@ cassioalves:
   image: cassio-alves.jpg
   link: https://www.linkedin.com/in/cassiocafs/
 
-##### PASSADOS #####
+# PAST SPEAKERS
 
 thialisonsouza:
   name: Thialison Souza
@@ -36,7 +36,7 @@ darlingcabral:
   name: Darling Cabral
   image: darling-cabral.jpg
   link: https://www.linkedin.com/in/darling-cabral-6b709a49/
-  
+
 fredericomoreira:
   name: Frederico Moreira
   image: frederico-moreira.jpg
@@ -96,8 +96,3 @@ wellingtonavelino:
   name: Wellington Avelino
   image: wellington-avelino.jpg
   link: https://www.linkedin.com/in/wellington-avelino
-
-# danielavieira:
-#   name: Daniela Vieira
-#   image: daniela-viera.jpg
-#   link: https://www.linkedin.com/in/daniela-vieira-4680aa9/
