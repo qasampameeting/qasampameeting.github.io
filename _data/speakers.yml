@@ -1,15 +1,5 @@
 # SPEAKERS
 
-andrecoelho:
-  name: André Coelho
-  image: andre-coelho.jpg
-  link: https://www.linkedin.com/in/andrebrait/
-
-rodrigosilva:
-  name: Rodrigo Silva
-  image: rodrigo-silva.jpg
-  link: https://www.linkedin.com/in/rodrigosilvap/
-
 andersonvasconcelos:
   name: Anderson Vasconcelos
   image: anderson-vasconcelos.jpg
@@ -19,6 +9,16 @@ danilocosta:
   name: Danilo Costa
   image: danilo-costa.jpg
   link: https://www.linkedin.com/in/danilo-costa-ramalho-38025531/
+
+andrecoelho:
+  name: André Coelho
+  image: andre-coelho.jpg
+  link: https://www.linkedin.com/in/andrebrait/
+
+rodrigosilva:
+  name: Rodrigo Silva
+  image: rodrigo-silva.jpg
+  link: https://www.linkedin.com/in/rodrigosilvap/
 
 cassioalves:
   name: Cássio Alves

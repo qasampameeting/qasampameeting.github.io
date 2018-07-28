@@ -9,17 +9,6 @@ julho:
     link: https://www.eventbrite.com.br/e/dojo-tema-a-definir-inscricoes-12-07-as-9h-tickets-46508385834
 
 agosto:
-  - date: 15-08-2018
-    title: "[Workshop] Scrum Foudantions"
-    speaker:
-      - andrecoelho
-      - rodrigosilva
-    place:
-      name: Concrete
-      map_link: https://goo.gl/maps/cqoRNhAfcJx
-    image: 15-08-2018.jpg
-    link: https://www.eventbrite.com.br/e/scrum-foudations-inscricoes-a-partir-de-08-08-as-23h-registration-46035311857
-
   - date: 28-08-2018
     title: "[Workshop] Fundamentos de Docker "
     speaker:
@@ -33,11 +22,23 @@ agosto:
 
 setembro:
   - date: 04-09-2018
+    title: "[Workshop] Scrum Foudantions"
+    speaker:
+      - andrecoelho
+      - rodrigosilva
+    place:
+      name: Concrete
+      map_link: https://goo.gl/maps/cqoRNhAfcJx
+    image: 04-09-2018.jpg
+    link: https://www.eventbrite.com.br/e/workshop-scrum-foudations-inscricoes-a-partir-de-28-08-as-23h-registration-46035311857
+  
+outubro:  
+  - date: a definir
     title: "[Workshop] Testando com protractor "
     speaker:
       - cassioalves
     place:
-      name: Nimbi
-      map_link: https://goo.gl/maps/srirjAjgRDG2
-    image: 04-09-2018.jpg
-    link: https://www.eventbrite.com.br/e/workshop-testando-com-protractor-inscricoes-a-partir-de-28-08-as-23h-registration-46509459044
+      name: a definir
+      map_link: 
+    image: 01-10-2018.jpg
+    link: https://www.eventbrite.com.br/e/workshop-testando-com-protractor-data-e-local-a-definir-registration-46509459044
