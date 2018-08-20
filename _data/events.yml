@@ -20,6 +20,14 @@ setembro:
       map_link: https://goo.gl/maps/4WqLKnueMdn
     image: 04-09-2018.jpg
     link: https://www.eventbrite.com.br/e/workshop-scrum-foudations-inscricoes-a-partir-de-28-08-as-23h-registration-46035311857
+
+  - date: 19-09-2018 (19h às 22h)
+    title: "[Dojo] Automação com Appium"
+    place:
+      name: 99Taxi
+      map_link: https://goo.gl/maps/Q4xdatFBxtn
+    image: 30-08-2018.jpg
+    link: https://www.eventbrite.com.br/e/dojo-automacao-com-appium-inscricoes-1209-as-23h-tickets-49307877188
   
 outubro:  
   - date: 06-10-2018 (9h às 17h)
