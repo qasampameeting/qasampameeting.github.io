@@ -1,15 +1,5 @@
 # SPEAKERS
 
-andersonvasconcelos:
-  name: Anderson Vasconcelos
-  image: anderson-vasconcelos.jpg
-  link: https://www.linkedin.com/in/andersonvasconcelossantana/
-
-danilocosta:
-  name: Danilo Costa
-  image: danilo-costa.jpg
-  link: https://www.linkedin.com/in/danilo-costa-ramalho-38025531/
-
 andrecoelho:
   name: André Coelho
   image: andre-coelho.jpg
@@ -25,6 +15,16 @@ cassioalves:
   image: cassio-alves.jpg
   link: https://www.linkedin.com/in/cassiocafs/
 
+andersonvasconcelos:
+  name: Anderson Vasconcelos
+  image: anderson-vasconcelos.jpg
+  link: https://www.linkedin.com/in/andersonvasconcelossantana/
+
+danilocosta:
+  name: Danilo Costa
+  image: danilo-costa.jpg
+  link: https://www.linkedin.com/in/danilo-costa-ramalho-38025531/
+  
 # PAST SPEAKERS
 
 thialisonsouza:

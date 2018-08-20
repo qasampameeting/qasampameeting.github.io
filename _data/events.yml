@@ -1,18 +1,7 @@
 # EVENTS
 
 agosto:
-  - date: 28-08-2018
-    title: "[Workshop] Fundamentos de Docker"
-    speaker:
-      - andersonvasconcelos
-      - danilocosta
-    place:
-      name: Bionexo
-      map_link: https://goo.gl/maps/A22Nk3Y326k
-    image: 28-08-2018.jpg
-    link: https://www.eventbrite.com.br/e/workshop-fundamentos-de-docker-inscricoes-a-partir-de-21-08-as-23h-registration-46509213309
-
-  - date: 30-08-2018
+  - date: 30-08-2018 (19h às 22h)
     title: "[Dojo] Automação Front-end (Inscrições 23/08 ás 23h)"
     place:
       name: Icarros
@@ -21,7 +10,7 @@ agosto:
     link: https://www.eventbrite.com.br/e/dojo-automacao-front-end-inscricoes-2308-as-23h-tickets-48735450043
 
 setembro:
-  - date: 04-09-2018
+  - date: 04-09-2018 (19h às 22h)
     title: "[Workshop] Scrum Foudantions"
     speaker:
       - andrecoelho
@@ -42,3 +31,15 @@ outubro:
       map_link: https://goo.gl/maps/YwXWsmv43Uv
     image: 06-10-2018.jpg
     link: https://www.eventbrite.com.br/e/workshop-testando-com-protractor-inscricoes-a-partir-de-24-09-18-registration-46509459044
+
+novembro:
+  - date: 10-11-2018 (10h às 17h)
+    title: "[Workshop] Fundamentos de Docker"
+    speaker:
+      - andersonvasconcelos
+      - danilocosta
+    place:
+      name: Bionexo
+      map_link: https://goo.gl/maps/A22Nk3Y326k
+    image: 10-11-2018.jpg
+    link: https://www.eventbrite.com.br/e/workshop-fundamentos-de-docker-inscricoes-a-partir-de-03-11-as-23h-registration-46509213309
