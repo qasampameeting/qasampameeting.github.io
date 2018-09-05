@@ -1,16 +1,5 @@
 # EVENTS
 setembro:
-  - date: 04-09-2018 (19h às 22h)
-    title: "[Workshop] Scrum Foudantions"
-    speaker:
-      - andrecoelho
-      - rodrigosilva
-    place:
-      name: Nimbi
-      map_link: https://goo.gl/maps/4WqLKnueMdn
-    image: 04-09-2018.jpg
-    link: https://www.eventbrite.com.br/e/workshop-scrum-foudations-inscricoes-a-partir-de-28-08-as-23h-registration-46035311857
-
   - date: 19-09-2018 (19h às 22h)
     title: "[Dojo] Automação com Appium"
     place:
