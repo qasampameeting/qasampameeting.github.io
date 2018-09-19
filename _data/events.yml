@@ -5,20 +5,28 @@ setembro:
     place:
       name: 99Taxi
       map_link: https://goo.gl/maps/Q4xdatFBxtn
-    image: 30-08-2018.jpg
+    image: 25-10-2018.jpg
     link: https://www.eventbrite.com.br/e/dojo-automacao-com-appium-inscricoes-1209-as-23h-tickets-49307877188
   
 outubro:  
-  - date: 06-10-2018 (9h às 17h)
+  - date: 13-10-2018 (9h às 17h)
     title: "[Workshop] Fundamentos de Docker"
     speaker:
       - andersonvasconcelos
       - danilocosta
     place:
-      name: Moip
-      map_link: https://goo.gl/maps/YwXWsmv43Uv
-    image: 06-10-2018.jpg
-    link: https://www.eventbrite.com.br/e/workshop-fundamentos-de-docker-inscricoes-a-partir-de-24-09-18-registration-46509459044
+      name: Bionexo
+      map_link: https://goo.gl/maps/A22Nk3Y326k
+    image: 13-10-2018.jpg
+    link: https://www.eventbrite.com.br/e/workshop-fundamentos-de-docker-inscricoes-a-partir-de-06-10-18-registration-46509459044
+
+  - date: 25-10-2018 (19h às 22h)
+    title: "[Dojo] - tema a definir"
+    place:
+      name: Netshoes
+      map_link: https://goo.gl/maps/Zf3UTPCQ5TF2
+    image: 25-10-2018.jpg
+    link: 
 
 novembro:
   - date: 10-11-2018 (10h às 17h)
