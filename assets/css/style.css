@@ -79,6 +79,9 @@ footer.page-footer {
   align-content: center;
   flex-wrap: wrap;
 }
+.supporters-logos a {
+  flex: 1 0 21%;
+}
 
 .supporters-logos-vertical {
   display: flex;
