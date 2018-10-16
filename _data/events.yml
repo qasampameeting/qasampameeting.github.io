@@ -1,17 +1,6 @@
 # EVENTS
 
 outubro:  
-  - date: 13-10-2018 (9h às 17h)
-    title: "[Workshop] Fundamentos de Docker"
-    speaker:
-      - andersonvasconcelos
-      - danilocosta
-    place:
-      name: Bionexo
-      map_link: https://goo.gl/maps/A22Nk3Y326k
-    image: 13-10-2018.jpg
-    link: https://www.eventbrite.com.br/e/workshop-fundamentos-de-docker-inscricoes-a-partir-de-06-10-18-registration-46509459044
-
   - date: 25-10-2018 (19h às 22h)
     title: "[Dojo] - tema a definir"
     place:

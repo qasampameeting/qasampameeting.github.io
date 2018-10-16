@@ -1,5 +1,11 @@
 # SPEAKERS
 
+cassioalves:
+  name: Cássio Alves
+  image: cassio-alves.jpg
+  link: https://www.linkedin.com/in/cassiocafs/
+  
+# PAST SPEAKERS
 andersonvasconcelos:
   name: Anderson Vasconcelos
   image: anderson-vasconcelos.jpg
@@ -10,12 +16,6 @@ danilocosta:
   image: danilo-costa.jpg
   link: https://www.linkedin.com/in/danilo-costa-ramalho-38025531/
 
-cassioalves:
-  name: Cássio Alves
-  image: cassio-alves.jpg
-  link: https://www.linkedin.com/in/cassiocafs/
-  
-# PAST SPEAKERS
 andrecoelho:
   name: André Coelho
   image: andre-coelho.jpg
