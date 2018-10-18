@@ -1,14 +1,4 @@
 # EVENTS
-
-outubro:  
-  - date: 25-10-2018 (19h às 22h)
-    title: "[Dojo] - tema a definir"
-    place:
-      name: Netshoes
-      map_link: https://goo.gl/maps/Zf3UTPCQ5TF2
-    image: 25-10-2018.jpg
-    link: https://www.eventbrite.com.br/e/dojo-tema-a-definir-inscricoes-a-partir-de-1810-as-23h-tickets-50455223933
-
 novembro:
   - date: 10-11-2018 (10h às 17h)
     title: "[Workshop] Testando com protractor"
