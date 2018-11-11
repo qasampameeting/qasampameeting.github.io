@@ -1,15 +1,4 @@
 # EVENTS
-novembro:
-  - date: 10-11-2018 (10h às 17h)
-    title: "[Workshop] Testando com protractor"
-    speaker:
-      - cassioalves
-    place:
-      name: Bionexo
-      map_link: https://goo.gl/maps/A22Nk3Y326k
-    image: 10-11-2018.jpg
-    link: https://www.eventbrite.com.br/e/workshop-testando-com-protractor-inscricoes-a-partir-de-03-11-as-23h-registration-46509213309
-
 dezembro:
   - date: 01-12-2018 (9h às 16h)
     title: "[1ª Gincana]-Quiz Show"
