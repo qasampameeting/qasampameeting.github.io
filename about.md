@@ -9,7 +9,7 @@ title: Sobre QA Sampa Meeting
   <div class="col s12">
     <p class="flow-text text-justify"> O QA Sampa Meeting surgiu da necessidade que sentimos em aprender sobre qualidade de software de forma PRÁTICA, colocando a mão na massa mesmo! </p>
 
-    <p class="flow-text text-justify"> O objetivo não é assistir uma palestra, mas sim participarmos de workshops com 30minutos de teoria e 2 horas de hands on pra treinarmos e tirarmos nossas dúvidas. </p>
+    <p class="flow-text text-justify"> O objetivo é participarmos de workshops com 6 horas, além de dojos, gincanas e hackers QA, com muita mão na massa e nada de palestra!</p>
 
     <p class="flow-text text-justify"> É uma iniciativa sem fins lucrativos, totalmente GRATUITA, com os seguintes valores: contribuir com a comunidade de qualidade, incentivar/ensinar a busca autodidata de conhecimento e valorizar/fortalecer o papel da qualidade no desenvolvimento de software.</p>
 
