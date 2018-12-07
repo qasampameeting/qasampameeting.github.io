@@ -3,8 +3,10 @@
     <a id="logo-container" href="{{ site.baseurl }}/" class="brand-logo"><img class="responsive-img" src="/assets/img/logo-small.png"></a>
     <ul class="right hide-on-med-and-down">
       {% for link in site.navigation %}
-        <li class="{% if page.url contains link.url %}active{% endif %}">
-          <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+        <li class="{% if page.url contains link.url %}active{% endif %}{% if link.title contains 'apoie' %}teal{% endif %}">
+          <a href="{{ link.url | prepend: site.baseurl }}" class="{% if link.title contains 'apoie' %}white-text{% endif %}">
+            {{ link.title }}
+          </a>
         </li>
       {% endfor %}
     </ul>

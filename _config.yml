@@ -16,11 +16,12 @@ navigation:
    url: /speakers
  - title: equipe
    url: /team
- - title: contato
-   url: /contact
  - title: blog
    url: 'https://medium.com/qa-sampa-meeting'
-   
+ - title: contato
+   url: /contact
+ - title: apoie
+   url: https://www.patreon.com/qasampa
 
 # SOCIAL MEDIA
 social:
