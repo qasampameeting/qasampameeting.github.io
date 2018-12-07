@@ -5,15 +5,17 @@ title: QA Sampa Meeting
 
 <div id="index-banner" class="parallax-container">
   <div class="section no-pad-bot">
-    <div class="container">
-      {% assign next_event = site.data.events.first[1].first %}
-      <div class="row center">
-        <a href="/events" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">
-          <i class="material-icons left">today</i>
-          Próximo evento: {{ next_event.date | replace: "-", "/" }}
-        </a>
+    {% if site.data.events %}
+      <div class="container">
+        {% assign next_event = site.data.events.first[1].first %}
+        <div class="row center">
+          <a href="/events" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">
+            <i class="material-icons left">today</i>
+            Próximo evento: {{ next_event.date | replace: "-", "/" }}
+          </a>
+        </div>
       </div>
-    </div>
+    {% endif %}
   </div>
   <div class="parallax"><img src="assets/img/folks.jpg" alt="Unsplashed background img 1" style="transform: translate3d(-50%, 326.131px, 0px); opacity: 1;"></div>
 </div>

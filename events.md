@@ -4,6 +4,12 @@ title: Eventos QA Sampa Meeting
 ---
 
 <div class="row"><div class="col s12"><h1 class="qasp-title">eventos</h1></div></div>
+{% unless site.data.events %}
+  <div class="card-panel teal lighten-2 center">
+    Sem eventos agendados por enquanto. Novidades em breve :)
+  </div>
+{% endunless %}
+
 {% for month_events in site.data.events %}
 <nav class="teal">
   <div class="nav-wrapper">
