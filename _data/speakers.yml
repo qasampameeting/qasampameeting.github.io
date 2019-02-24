@@ -1,65 +1,80 @@
 # SPEAKERS
 
+marinamanso:
+  name: Marina Manso
+  image: marinamanso.jpg
+  link: https://www.linkedin.com/in/marinamanso
+
+gabriellafiori:
+  name: Gabriella Fiori
+  image: gabriellafiori.jpg
+  link: https://www.linkedin.com/in/gabriella-fiori-7661b791
+
+celsocrivelaro:
+  name: Celso Crivelaro
+  image: celsocrivelaro.jpg
+  link: https://www.linkedin.com/in/celsocrivelaro
+
+# PAST SPEAKERS
 cassioalves:
   name: Cássio Alves
   image: cassio-alves.jpg
-  link: https://www.linkedin.com/in/cassiocafs/
-  
-# PAST SPEAKERS
+  link: https://www.linkedin.com/in/cassiocafs
+
 andersonvasconcelos:
   name: Anderson Vasconcelos
   image: anderson-vasconcelos.jpg
-  link: https://www.linkedin.com/in/andersonvasconcelossantana/
+  link: https://www.linkedin.com/in/andersonvasconcelossantana
 
 danilocosta:
   name: Danilo Costa
   image: danilo-costa.jpg
-  link: https://www.linkedin.com/in/danilo-costa-ramalho-38025531/
+  link: https://www.linkedin.com/in/danilo-costa-ramalho-38025531
 
 andrecoelho:
   name: André Coelho
   image: andre-coelho.jpg
-  link: https://www.linkedin.com/in/andrebrait/
+  link: https://www.linkedin.com/in/andrebrait
 
 rodrigosilva:
   name: Rodrigo Silva
   image: rodrigo-silva.jpg
-  link: https://www.linkedin.com/in/rodrigosilvap/
-  
+  link: https://www.linkedin.com/in/rodrigosilvap
+
 thialisonsouza:
   name: Thialison Souza
   image: thialison-souza.jpg
-  link: https://www.linkedin.com/in/thialisontester/
+  link: https://www.linkedin.com/in/thialisontester
 
 darlingcabral:
   name: Darling Cabral
   image: darling-cabral.jpg
-  link: https://www.linkedin.com/in/darling-cabral-6b709a49/
+  link: https://www.linkedin.com/in/darling-cabral-6b709a49
 
 fredericomoreira:
   name: Frederico Moreira
   image: frederico-moreira.jpg
-  link: https://www.linkedin.com/in/fredcmoreira/
+  link: https://www.linkedin.com/in/fredcmoreira
 
 samantacicilia:
   name: Samanta Cicilia
   image: samanta-cicilia.jpg
-  link: https://www.linkedin.com/in/samantacici/
+  link: https://www.linkedin.com/in/samantacici
 
 camilacampos:
   name: Camila Campos
   image: camila-campos.jpg
-  link: https://www.linkedin.com/in/camilacamposramos/
+  link: https://www.linkedin.com/in/camilacamposramos
 
 juliabirkett:
   name: Júlia Birkett
   image: julia-birkett.jpg
-  link: https://www.linkedin.com/in/birkettjulia/
+  link: https://www.linkedin.com/in/birkettjulia
 
 juliodelima:
   name: Júlio de Lima
   image: julio-lima.jpg
-  link: https://www.linkedin.com/in/juliodelimas/
+  link: https://www.linkedin.com/in/juliodelimas
 
 nathanaelaraujo:
   name: Nathanael Araújo
@@ -74,17 +89,17 @@ samuelpereira:
 deborafernandes:
   name: Débora Fernandes
   image: debora-fernandes.jpg
-  link: https://www.linkedin.com/in/debborafernandess/
+  link: https://www.linkedin.com/in/debborafernandess
 
 alangularte:
   name: Alan Gularte
   image: alan-gularte.jpg
-  link: https://www.linkedin.com/in/alancafrunigularte/
+  link: https://www.linkedin.com/in/alancafrunigularte
 
 rodrigomatola:
   name: Rodrigo Matola
   image: rodrigo-matola.jpg
-  link: https://www.linkedin.com/in/rodrigomatola/
+  link: https://www.linkedin.com/in/rodrigomatola
 
 karolineleite:
   name: Karoline Leite
