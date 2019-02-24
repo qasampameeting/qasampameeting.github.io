@@ -1,9 +1,20 @@
 # EVENTS
 março:
   - date: 20-03-2019
-    title: "[Dojo] Automação Front-end "
+    title: "[Dojo] Automação Front-end"
     place:
       name: Yaman
       map_link: https://goo.gl/maps/7DAZu72treF2
     image: dojo.jpg
     link: https://www.eventbrite.com.br/e/dojo-automacao-front-end-inscricoes-1103-as-23h-tickets-56851273690
+
+abril:
+  - date: 13-04-2019
+    title: "[Workshop] Como testar games?"
+    place:
+      name: Wirecard
+      map_link: https://goo.gl/maps/EqAyrhW146H2
+    speaker:
+      - marinamanso
+    image: 13-04-2019.jpg
+    link: https://www.eventbrite.com.br/e/workshop-como-testar-games-inscricoes-a-partir-de-01-04-as-23h-registration-57188157318
