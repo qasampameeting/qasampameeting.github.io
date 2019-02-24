@@ -68,6 +68,7 @@ footer.page-footer {
   text-align: justify;
 }
 
+/* SUPPORTERS */
 .supporters {
   padding-top: 5px;
   padding-bottom: 20px;
@@ -84,6 +85,27 @@ footer.page-footer {
 }
 
 .supporters-logos-vertical {
+  display: flex;
+  flex-direction: column;
+}
+
+/* SPONSORS */
+.sponsors {
+  padding-top: 5px;
+  padding-bottom: 20px;
+}
+
+.sponsors-logos {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  flex-wrap: wrap;
+}
+.sponsors-logos a {
+  flex: 1 0 21%;
+}
+
+.sponsors-logos-vertical {
   display: flex;
   flex-direction: column;
 }

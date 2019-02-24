@@ -19,6 +19,31 @@ title: Sobre QA Sampa Meeting
   </div>
 </div>
 
+<!-- Sponsors -->
+<div class="row white teal-text center-align sponsors">
+  <h5><strong>Patrocínio</strong></h5>
+  <div class="hide-on-med-and-down">
+    <div class="col s12 valign-wrapper center-align sponsors-logos">
+      {% for sponsor in site.data.sponsors %}
+          <a href="{{ sponsor[1] }}" target="_blank">
+            <img style="max-height: 120px;" src="/assets/img/sponsors/{{ sponsor[0] }}.png">
+          </a>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="hide-on-large-only">
+    <div class="col s12 valign-wrapper center-align sponsors-logos-vertical">
+      {% for sponsor in site.data.sponsors %}
+          <a href="{{ sponsor[1] }}" target="_blank">
+            <img style="max-height: 200px;" src="/assets/img/sponsors/{{ sponsor[0] }}.png">
+          </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<!-- END Sponsors -->
+
+<!-- Supporters -->
 <div class="row white teal-text center-align supporters">
   <h5><strong>Apoio</strong></h5>
   <div class="hide-on-med-and-down">
@@ -40,3 +65,4 @@ title: Sobre QA Sampa Meeting
     </div>
   </div>
 </div>
+<!-- END Supporters -->
