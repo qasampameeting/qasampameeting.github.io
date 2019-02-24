@@ -18,3 +18,12 @@ abril:
       - marinamanso
     image: 13-04-2019.jpg
     link: https://www.eventbrite.com.br/e/workshop-como-testar-games-inscricoes-a-partir-de-01-04-as-23h-registration-57188157318
+
+maio:
+  - date: 22-05-2019
+    title: "[Dojo] Automação de API"
+    place:
+      name: ZX Ventures
+      map_link: https://goo.gl/maps/7t7Jg8Qncm62
+    image: dojo.jpg
+    link: https://www.eventbrite.com.br/e/dojo-automacao-de-api-inscricoes-1305-as-23h-tickets-57347787777
