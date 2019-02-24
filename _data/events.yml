@@ -1,9 +1,9 @@
 # EVENTS
-# dezembro:
-#   - date: 01-12-2018 (9h às 16h)
-#     title: "[1ª Gincana]-Quiz Show"
-#     place:
-#       name: Bionexo
-#       map_link: https://goo.gl/maps/A22Nk3Y326k
-#     image: gincana.jpg
-#     link: https://www.eventbrite.com.br/e/1a-gincana-quiz-show-qa-sampa-meeting-inscric-oes-dia-24-11-as-23h-tickets-51970436976?aff=ebdssbdestsearch
+março:
+  - date: 20-03-2019
+    title: "[Dojo] Automação Front-end "
+    place:
+      name: Yaman
+      map_link: https://goo.gl/maps/7DAZu72treF2
+    image: dojo.jpg
+    link: https://www.eventbrite.com.br/e/dojo-automacao-front-end-inscricoes-1103-as-23h-tickets-56851273690
