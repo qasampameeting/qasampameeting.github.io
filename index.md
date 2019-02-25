@@ -9,7 +9,7 @@ title: QA Sampa Meeting
       <div class="container">
         {% assign next_event = site.data.events.first[1].first %}
         <div class="row center">
-          <a href="/events" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">
+          <a href="/events" id="download-button" class="btn-large waves-effect waves-light blue lighten-1">
             <i class="material-icons left">today</i>
             Próximo evento: {{ next_event.date | replace: "-", "/" }}
           </a>
@@ -28,7 +28,7 @@ title: QA Sampa Meeting
   <div class="row">
     <div class="col s12 m6">
       <p class="flow-text">Evento para profissionais que desejam aprender sobre Qualidade de Software</p>
-      <a href="/about" class="waves-effect waves-light btn"><i class="material-icons right">add</i>Saiba mais</a>
+      <a href="/about" class="waves-effect waves-light btn blue lighten-1"><i class="material-icons right">add</i>Saiba mais</a>
     </div>
     <div class="col s6 center hide-on-small-only">
       <a href="/about"><img src="/assets/img/home-about.jpg"></a>
@@ -43,7 +43,7 @@ title: QA Sampa Meeting
   <div class="row">
     <div class="col s12 m6">
       <p class="flow-text">Estas serão nossas inspirações para os próximos eventos</p>
-      <a href="/speakers" class="waves-effect waves-light btn"><i class="material-icons right">add</i>Saiba mais</a>
+      <a href="/speakers" class="waves-effect waves-light btn blue lighten-1"><i class="material-icons right">add</i>Saiba mais</a>
     </div>
     {% for speaker in site.data.speakers limit: 3 %}
       <div class="col s2 hide-on-small-only">
@@ -54,7 +54,7 @@ title: QA Sampa Meeting
             </a>
           </div>
           <div class="card-content valign-wrapper">
-            <a href="/speakers" class="teal-text">{{ speaker[1].name }}</a>
+            <a href="/speakers" class="blue-text text-lighten-1">{{ speaker[1].name }}</a>
           </div>
         </div>
       </div>
@@ -69,7 +69,7 @@ title: QA Sampa Meeting
   <div class="row">
     <div class="col s12 m6">
       <p class="flow-text">Confira nossa agenda de eventos</p>
-      <a href="/events" class="waves-effect waves-light btn"><i class="material-icons right">add</i>Saiba mais</a>
+      <a href="/events" class="waves-effect waves-light btn blue lighten-1"><i class="material-icons right">add</i>Saiba mais</a>
     </div>
   </div>
 </div>

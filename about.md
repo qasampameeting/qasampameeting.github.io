@@ -20,7 +20,7 @@ title: Sobre QA Sampa Meeting
 </div>
 
 <!-- Sponsors -->
-<div class="row white teal-text center-align sponsors">
+<div class="row white blue-text text-lighten-1 center-align sponsors">
   <h5><strong>Patrocínio</strong></h5>
   <div class="hide-on-med-and-down">
     <div class="col s12 valign-wrapper center-align sponsors-logos">
@@ -44,7 +44,7 @@ title: Sobre QA Sampa Meeting
 <!-- END Sponsors -->
 
 <!-- Supporters -->
-<div class="row white teal-text center-align supporters">
+<div class="row white blue-text text-lighten-1 center-align supporters">
   <h5><strong>Apoio</strong></h5>
   <div class="hide-on-med-and-down">
     <div class="col s12 valign-wrapper center-align supporters-logos">

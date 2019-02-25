@@ -15,7 +15,7 @@ title: Equipe QA Sampa Meeting
         </a>
       </div>
       <div class="card-content center">
-        <span class="card-title center"><strong><a class="teal-text" href="{{ member.link }}" target="_blank">{{ member.name }}</a></strong></span>
+        <span class="card-title center"><strong><a class="blue-text text-lighten-1" href="{{ member.link }}" target="_blank">{{ member.name }}</a></strong></span>
         <p><a href="{{ member.link }}" target="_blank">{{ member.link_text }}</a></p>
       </div>
     </div>

@@ -31,7 +31,7 @@ title: Contato QA Sampa Meeting
       <label for="message">Mensagem</label>
     </div>
   </div>
-  <button class="btn waves-effect waves-light" type="submit" name="action">Enviar
+  <button class="btn waves-effect waves-light blue lighten-1" type="submit" name="action">Enviar
     <i class="material-icons right">send</i>
   </button>
 </form>

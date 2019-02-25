@@ -3,7 +3,7 @@
     <a id="logo-container" href="{{ site.baseurl }}/" class="brand-logo"><img class="responsive-img" src="/assets/img/logo-small.png"></a>
     <ul class="right hide-on-med-and-down">
       {% for link in site.navigation %}
-        <li class="{% if page.url contains link.url %}active{% endif %}{% if link.title contains 'apoie' %}teal{% endif %}">
+        <li class="{% if page.url contains link.url %}active{% endif %}{% if link.title contains 'apoie' %}blue lighten-1{% endif %}">
           <a href="{{ link.url | prepend: site.baseurl }}" class="{% if link.title contains 'apoie' %}white-text{% endif %}">
             {{ link.title }}
           </a>
@@ -12,7 +12,7 @@
     </ul>
     <ul id="nav-mobile" class="sidenav">
       {% for link in site.navigation %}
-        <li class="{% if link.title contains 'apoie' %}teal{% endif %}">
+        <li class="{% if link.title contains 'apoie' %}blue lighten-1{% endif %}">
           <a href="{{ link.url | prepend: site.baseurl }}" class="{% if link.title contains 'apoie' %}white-text{% endif %}">
             {{ link.title }}
           </a>

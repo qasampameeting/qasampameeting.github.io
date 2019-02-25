@@ -5,13 +5,13 @@ title: Eventos QA Sampa Meeting
 
 <div class="row"><div class="col s12"><h1 class="qasp-title">eventos</h1></div></div>
 {% unless site.data.events %}
-  <div class="card-panel teal lighten-2 center">
+  <div class="card-panel blue lighten-1 center">
     Sem eventos agendados por enquanto. Novidades em breve :)
   </div>
 {% endunless %}
 
 {% for month_events in site.data.events %}
-<nav class="teal">
+<nav class="blue lighten-1">
   <div class="nav-wrapper">
     <div class="row">
       <div class="col s12">
@@ -67,7 +67,7 @@ title: Eventos QA Sampa Meeting
         </p>
       </div>
       <div class="card-action">
-        <a href="{{ event.link }}" {% if event.link %}target="_blank"{% endif %} class="waves-effect waves-light btn">
+        <a href="{{ event.link }}" {% if event.link %}target="_blank"{% endif %} class="waves-effect waves-light btn blue lighten-1">
           <i class="material-icons right">lightbulb_outline</i>
           {% if event.link %}inscreva-se aqui{% else %}em breve{% endif %}
         </a>
