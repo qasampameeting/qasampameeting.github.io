@@ -23,6 +23,9 @@ maio:
 junho:
   - date: 08-06-2019
     title: "[Workshop] Testes de usabilidade"
+    place:
+      name: Dasa
+      map_link: https://goo.gl/maps/f1aFz13eTnn
     image: 08-06-2019.jpg
     speaker:
       - gabriellafiori
