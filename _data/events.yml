@@ -1,16 +1,5 @@
 # EVENTS
 
-abril:
-  - date: 13-04-2019
-    title: "[Workshop] Como testar games?"
-    place:
-      name: Wirecard
-      map_link: https://goo.gl/maps/EqAyrhW146H2
-    speaker:
-      - marinamanso
-    image: 13-04-2019.jpg
-    link: https://www.eventbrite.com.br/e/workshop-como-testar-games-inscricoes-a-partir-de-01-04-as-23h-registration-57188157318
-
 maio:
   - date: 22-05-2019
     title: "[Dojo] Automação de API"
