@@ -11,22 +11,12 @@ maio:
 
 junho:
   - date: 08-06-2019
-    title: "[Workshop] Testes de usabilidade"
+    title: "[Workshop] Criando sua primeira API"
     place:
       name: Dasa
       map_link: https://goo.gl/maps/f1aFz13eTnn
-    image: 08-06-2019.jpg
-    speaker:
-      - gabriellafiori
-    link: https://www.eventbrite.com.br/e/workshop-testes-de-usabilidade-inscricoes-a-partir-de-27-05-as-23h-registration-57348244142
-
-julho:
-  - date: 06-07-2019
-    title: "[Workshop] Criando sua primeira API"
-    place:
-      name: Wirecard
-      map_link: https://goo.gl/maps/EqAyrhW146H2
+    image: 6-09-2019.jpg
     speaker:
       - celsocrivelaro
     image: 06-09-2019.jpg
-    link: https://www.eventbrite.com.br/e/workshop-criando-sua-primeira-api-inscricoes-a-partir-do-dia-24-06-as-23h-registration-57211665632
+    link: https://www.eventbrite.com.br/e/workshop-criando-sua-primeira-api-inscricoes-a-partir-do-dia-27-05-as-23h-registration-57211665632
