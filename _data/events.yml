@@ -20,3 +20,15 @@ junho:
       - celsocrivelaro
     image: 06-09-2019.jpg
     link: https://www.eventbrite.com.br/e/workshop-criando-sua-primeira-api-inscricoes-a-partir-do-dia-27-05-as-23h-registration-57211665632
+
+julho:
+  - date: 13-07-2019
+    title: "[Workshop] Como criar um produto?"
+    place:
+      name: Wirecard
+      map_link: https://goo.gl/maps/8oUmfnyyDLpE8GX57
+    image: 
+    speaker:
+      - andressachiara
+    image: 13-07-2019.jpg
+    link: https://www.eventbrite.com.br/e/workshop-como-criar-um-produto-inscricoes-a-partir-do-dia-06-07-as-23h-registration-61580968334
