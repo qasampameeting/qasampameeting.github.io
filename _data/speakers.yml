@@ -1,5 +1,10 @@
 # SPEAKERS
 
+celsocrivelaro:
+  name: Celso Crivelaro
+  image: celsocrivelaro.jpg
+  link: https://www.linkedin.com/in/celsocrivelaro
+
 andressachiara:
   name: Andressa Chiara
   image: andressachiara.jpg
@@ -15,10 +20,6 @@ gabriellafiori:
   image: gabriellafiori.jpg
   link: https://www.linkedin.com/in/gabriella-fiori-7661b791
 
-celsocrivelaro:
-  name: Celso Crivelaro
-  image: celsocrivelaro.jpg
-  link: https://www.linkedin.com/in/celsocrivelaro
 
 # PAST SPEAKERS
 cassioalves:
