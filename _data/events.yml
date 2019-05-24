@@ -1,14 +1,5 @@
 # EVENTS
 
-maio:
-  - date: 22-05-2019
-    title: "[Dojo] Automação de API"
-    place:
-      name: ZX Ventures
-      map_link: https://goo.gl/maps/7t7Jg8Qncm62
-    image: dojo.jpg
-    link: https://www.eventbrite.com.br/e/dojo-automacao-de-api-inscricoes-1305-as-23h-tickets-57347787777
-
 junho:
   - date: 08-06-2019
     title: "[Workshop] Criando sua primeira API"
