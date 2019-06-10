@@ -1,17 +1,5 @@
 # EVENTS
 
-junho:
-  - date: 08-06-2019
-    title: "[Workshop] Criando sua primeira API"
-    place:
-      name: Dasa
-      map_link: https://goo.gl/maps/f1aFz13eTnn
-    image: 6-09-2019.jpg
-    speaker:
-      - celsocrivelaro
-    image: 06-09-2019.jpg
-    link: https://www.eventbrite.com.br/e/workshop-criando-sua-primeira-api-inscricoes-a-partir-do-dia-27-05-as-23h-registration-57211665632
-
 julho:
   - date: 13-07-2019
     title: "[Workshop] Como criar um produto?"
