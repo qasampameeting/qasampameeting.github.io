@@ -1,27 +1,21 @@
 # SPEAKERS
-
-celsocrivelaro:
-  name: Celso Crivelaro
-  image: celsocrivelaro.jpg
-  link: https://www.linkedin.com/in/celsocrivelaro
-
 andressachiara:
   name: Andressa Chiara
   image: andressachiara.jpg
   link: https://www.linkedin.com/in/andressachiara/
+
+
+# PAST SPEAKERS
+celsocrivelaro:
+  name: Celso Crivelaro
+  image: celsocrivelaro.jpg
+  link: https://www.linkedin.com/in/celsocrivelaro
 
 marinamanso:
   name: Marina Manso
   image: marinamanso.jpg
   link: https://www.linkedin.com/in/marinamanso
 
-gabriellafiori:
-  name: Gabriella Fiori
-  image: gabriellafiori.jpg
-  link: https://www.linkedin.com/in/gabriella-fiori-7661b791
-
-
-# PAST SPEAKERS
 cassioalves:
   name: Cássio Alves
   image: cassio-alves.jpg
