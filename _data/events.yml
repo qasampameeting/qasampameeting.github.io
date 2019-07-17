@@ -1,13 +1,13 @@
 # EVENTS
 
-julho:
-  - date: 13-07-2019
-    title: "[Workshop] Como criar um produto?"
+agosto:
+  - date: 31-08-2019
+    title: "[Workshop] Trabalhando com o Jenkins"
     place:
-      name: Bionexo
-      map_link: https://goo.gl/maps/fp4kEGqDGwj3kwxv9
+      name: Wirecard
+      map_link: https://goo.gl/maps/28hsBwKxh4Cbe2gY8
     image: 
     speaker:
-      - andressachiara
-    image: 13-07-2019.jpg
-    link: https://www.eventbrite.com.br/e/workshop-como-criar-um-produto-inscricoes-a-partir-do-dia-06-07-as-23h-registration-61580968334
+      - henrique cabral
+    image: 31-08-2019.jpg
+    link: https://www.eventbrite.com.br/e/workshop-trabalhando-com-jenkins-inscricoes-a-partir-do-dia-2408-as-23h-registration-64982721068
