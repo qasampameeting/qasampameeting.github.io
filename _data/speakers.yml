@@ -1,11 +1,16 @@
 # SPEAKERS
+henriquecabral:
+  name: Henrique Cabral
+  image: henrique-cabral.jpg
+  link: https://www.linkedin.com/in/henriqcabral/
+
+
+# PAST SPEAKERS
 andressachiara:
   name: Andressa Chiara
   image: andressachiara.jpg
   link: https://www.linkedin.com/in/andressachiara/
 
-
-# PAST SPEAKERS
 celsocrivelaro:
   name: Celso Crivelaro
   image: celsocrivelaro.jpg
