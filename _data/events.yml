@@ -6,8 +6,35 @@ agosto:
     place:
       name: Wirecard
       map_link: https://goo.gl/maps/28hsBwKxh4Cbe2gY8
-    image: 
-    speaker:
-      - henriquecabral
     image: 31-08-2019.jpg
     link: https://www.eventbrite.com.br/e/workshop-trabalhando-com-jenkins-inscricoes-a-partir-do-dia-2408-as-23h-registration-64982721068
+
+setembro:
+  - date: 19-09-2019
+    title: "[Dojo] Automação Mobile Android com Appium + Ruby"
+    place:
+      name: Creditas
+      map_link: https://goo.gl/maps/My5oB21DwsKM4JWz6
+    image: dojo.jpg
+    link: https://www.eventbrite.com.br/e/dojo-automacao-mobile-android-com-appium-ruby-inscricoes-1009-as-23h-tickets-65610525849
+
+novembro:
+  - date: 02-11-2019
+    title: "[Workshop] Dockerizando os seus testes funcionais"
+    place:
+      name: Agile School
+      map_link: https://goo.gl/maps/xZWduyz7uH11H8TU9
+    speaker:
+      - nathaliafreire
+      - nelsonestevam
+    image: 02-11-2019.jpg
+    link: https://www.eventbrite.com.br/e/workshop-dockerizando-os-seus-testes-funcionais-inscricoes-2610-as-23h-tickets-67926972403
+    
+  - date: 31-11-2019
+    title: "[2a Gincana] Quiz Show QA Sampa Meeting"
+    place:
+      name: Bionexo
+      map_link: https://goo.gl/maps/k9WKuQA8NVm1xFFi8
+    image: 31-11-2019.jpg
+    link: https://www.eventbrite.com.br/e/2a-gincana-quiz-show-qa-sampa-meeting-inscricoes-3010-as-23h-tickets-67828028459
+
