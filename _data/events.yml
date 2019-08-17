@@ -9,6 +9,7 @@ agosto:
     image: 31-08-2019.jpg
     link: https://www.eventbrite.com.br/e/workshop-trabalhando-com-jenkins-inscricoes-a-partir-do-dia-2408-as-23h-registration-64982721068
 
+setembro:
   - date: 19-09-2019
     title: "[Dojo] Automação Mobile Android com Appium + Ruby"
     place:
@@ -17,6 +18,7 @@ agosto:
     image: dojo.jpg
     link: https://www.eventbrite.com.br/e/dojo-automacao-mobile-android-com-appium-ruby-inscricoes-1009-as-23h-tickets-65610525849
 
+novembro:
   - date: 02-11-2019
     title: "[Workshop] Dockerizando os seus testes funcionais"
     place:
