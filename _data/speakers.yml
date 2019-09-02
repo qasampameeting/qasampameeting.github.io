@@ -1,10 +1,4 @@
 # SPEAKERS
-
-celsocrivelaro:
-  name: Celso Crivelaro
-  image: celsocrivelaro.jpg
-  link: https://www.linkedin.com/in/celsocrivelaro
-
 nathaliafreire:
   name: Nathalia Freire
   image: nathalia-freire.jpg
@@ -16,15 +10,16 @@ nelsonestevam:
   link: https://www.linkedin.com/in/nestevam/
 
 # PAST SPEAKERS
-andressachiara:
-  name: Andressa Chiara
-  image: andressachiara.jpg
-  link: https://www.linkedin.com/in/andressachiara/
 
 celsocrivelaro:
   name: Celso Crivelaro
   image: celsocrivelaro.jpg
   link: https://www.linkedin.com/in/celsocrivelaro
+  
+andressachiara:
+  name: Andressa Chiara
+  image: andressachiara.jpg
+  link: https://www.linkedin.com/in/andressachiara/
 
 danielsantos:
   name: Daniel Santos
