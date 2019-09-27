@@ -1,13 +1,4 @@
 # EVENTS
-setembro:
-  - date: 19-09-2019
-    title: "[Dojo] Automação Mobile Android com Appium + Ruby"
-    place:
-      name: Creditas
-      map_link: https://goo.gl/maps/My5oB21DwsKM4JWz6
-    image: dojo.jpg
-    link: https://www.eventbrite.com.br/e/dojo-automacao-mobile-android-com-appium-ruby-inscricoes-1009-as-23h-tickets-65610525849
-
 novembro:
   - date: 02-11-2019
     title: "[Workshop] Dockerizando os seus testes funcionais"
