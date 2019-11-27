@@ -1,16 +1,5 @@
 # EVENTS
 novembro:
-  - date: 02-11-2019
-    title: "[Workshop] Dockerizando os seus testes funcionais"
-    place:
-      name: Agile School
-      map_link: https://goo.gl/maps/xZWduyz7uH11H8TU9
-    speaker:
-      - nathaliafreire
-      - nelsonestevam
-    image: 02-11-2019.jpg
-    link: https://www.eventbrite.com.br/e/workshop-dockerizando-os-seus-testes-funcionais-inscricoes-2610-as-23h-tickets-67926972403
-    
   - date: 30-11-2019
     title: "[2a Gincana] Quiz Show QA Sampa Meeting"
     place:
@@ -18,4 +7,3 @@ novembro:
       map_link: https://goo.gl/maps/k9WKuQA8NVm1xFFi8
     image: 30-11-2019.jpg
     link: https://www.eventbrite.com.br/e/2a-gincana-quiz-show-qa-sampa-meeting-inscricoes-3010-as-23h-tickets-67828028459
-
